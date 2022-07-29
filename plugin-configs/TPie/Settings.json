@@ -1,0 +1,1132 @@
+{
+  "$type": "TPie.Config.Settings, TPie",
+  "Rings": [
+    {
+      "$type": "TPie.Models.Ring, TPie",
+      "Name": "Main",
+      "Rotation": 0.0,
+      "Radius": 150.0,
+      "ItemSize": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 40.0,
+        "Y": 40.0
+      },
+      "KeyBind": {
+        "$type": "TPie.Models.KeyBind, TPie",
+        "Key": 84,
+        "Ctrl": false,
+        "Alt": false,
+        "Shift": false,
+        "Toggle": false,
+        "Jobs": [],
+        "IsGlobal": true
+      },
+      "DrawLine": true,
+      "DrawSelectionBackground": true,
+      "ShowTooltips": false,
+      "Items": [
+        {
+          "$type": "TPie.Models.Elements.NestedRingElement, TPie",
+          "RingName": "Jobs",
+          "ActivationTime": 0.2,
+          "DrawText": false,
+          "KeepCenter": true,
+          "IconID": 66315,
+          "Border": {
+            "$type": "TPie.Models.Elements.ItemBorder, TPie",
+            "Color": {
+              "$type": "System.Numerics.Vector3, System.Private.CoreLib",
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Thickness": 3,
+            "Radius": 2
+          }
+        },
+        {
+          "$type": "TPie.Models.Elements.NestedRingElement, TPie",
+          "RingName": "Teleports",
+          "ActivationTime": 0.2,
+          "DrawText": false,
+          "KeepCenter": true,
+          "IconID": 111,
+          "Border": {
+            "$type": "TPie.Models.Elements.ItemBorder, TPie",
+            "Color": {
+              "$type": "System.Numerics.Vector3, System.Private.CoreLib",
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Thickness": 3,
+            "Radius": 2
+          }
+        }
+      ],
+      "QuickActionIndex": -1,
+      "Color": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "Previewing": false,
+      "IsActive": false,
+      "HasInventoryItems": false
+    },
+    {
+      "$type": "TPie.Models.Ring, TPie",
+      "Name": "Jobs",
+      "Rotation": 0.0,
+      "Radius": 150.0,
+      "ItemSize": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 40.0,
+        "Y": 40.0
+      },
+      "KeyBind": {
+        "$type": "TPie.Models.KeyBind, TPie",
+        "Key": 0,
+        "Ctrl": false,
+        "Alt": false,
+        "Shift": false,
+        "Toggle": false,
+        "Jobs": [],
+        "IsGlobal": true
+      },
+      "DrawLine": true,
+      "DrawSelectionBackground": true,
+      "ShowTooltips": false,
+      "Items": [
+        {
+          "$type": "TPie.Models.Elements.NestedRingElement, TPie",
+          "RingName": "Tanks",
+          "ActivationTime": 0.2,
+          "DrawText": false,
+          "KeepCenter": true,
+          "IconID": 62581,
+          "Border": {
+            "$type": "TPie.Models.Elements.ItemBorder, TPie",
+            "Color": {
+              "$type": "System.Numerics.Vector3, System.Private.CoreLib",
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Thickness": 3,
+            "Radius": 2
+          }
+        },
+        {
+          "$type": "TPie.Models.Elements.NestedRingElement, TPie",
+          "RingName": "Healer",
+          "ActivationTime": 0.2,
+          "DrawText": false,
+          "KeepCenter": true,
+          "IconID": 62582,
+          "Border": {
+            "$type": "TPie.Models.Elements.ItemBorder, TPie",
+            "Color": {
+              "$type": "System.Numerics.Vector3, System.Private.CoreLib",
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Thickness": 3,
+            "Radius": 2
+          }
+        },
+        {
+          "$type": "TPie.Models.Elements.NestedRingElement, TPie",
+          "RingName": "DPS",
+          "ActivationTime": 0.2,
+          "DrawText": false,
+          "KeepCenter": true,
+          "IconID": 62583,
+          "Border": {
+            "$type": "TPie.Models.Elements.ItemBorder, TPie",
+            "Color": {
+              "$type": "System.Numerics.Vector3, System.Private.CoreLib",
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Thickness": 3,
+            "Radius": 2
+          }
+        },
+        {
+          "$type": "TPie.Models.Elements.NestedRingElement, TPie",
+          "RingName": "Crafter",
+          "ActivationTime": 0.2,
+          "DrawText": false,
+          "KeepCenter": true,
+          "IconID": 66021,
+          "Border": {
+            "$type": "TPie.Models.Elements.ItemBorder, TPie",
+            "Color": {
+              "$type": "System.Numerics.Vector3, System.Private.CoreLib",
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Thickness": 3,
+            "Radius": 2
+          }
+        },
+        {
+          "$type": "TPie.Models.Elements.NestedRingElement, TPie",
+          "RingName": "Gatherer",
+          "ActivationTime": 0.2,
+          "DrawText": false,
+          "KeepCenter": true,
+          "IconID": 66081,
+          "Border": {
+            "$type": "TPie.Models.Elements.ItemBorder, TPie",
+            "Color": {
+              "$type": "System.Numerics.Vector3, System.Private.CoreLib",
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Thickness": 3,
+            "Radius": 2
+          }
+        }
+      ],
+      "QuickActionIndex": -1,
+      "Color": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "Previewing": false,
+      "IsActive": false,
+      "HasInventoryItems": false
+    },
+    {
+      "$type": "TPie.Models.Ring, TPie",
+      "Name": "Tanks",
+      "Rotation": 0.0,
+      "Radius": 150.0,
+      "ItemSize": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 40.0,
+        "Y": 40.0
+      },
+      "KeyBind": {
+        "$type": "TPie.Models.KeyBind, TPie",
+        "Key": 0,
+        "Ctrl": false,
+        "Alt": false,
+        "Shift": false,
+        "Toggle": false,
+        "Jobs": [],
+        "IsGlobal": true
+      },
+      "DrawLine": true,
+      "DrawSelectionBackground": true,
+      "ShowTooltips": false,
+      "Items": [
+        {
+          "$type": "TPie.Models.Elements.GearSetElement, TPie",
+          "GearSetID": 1,
+          "UseID": true,
+          "GearSetName": "PLD",
+          "DrawText": false,
+          "JobID": 19,
+          "IconID": 62819,
+          "Border": {
+            "$type": "TPie.Models.Elements.ItemBorder, TPie",
+            "Color": {
+              "$type": "System.Numerics.Vector3, System.Private.CoreLib",
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Thickness": 3,
+            "Radius": 2
+          }
+        },
+        {
+          "$type": "TPie.Models.Elements.GearSetElement, TPie",
+          "GearSetID": 2,
+          "UseID": true,
+          "GearSetName": "WAR",
+          "DrawText": false,
+          "JobID": 21,
+          "IconID": 62821,
+          "Border": {
+            "$type": "TPie.Models.Elements.ItemBorder, TPie",
+            "Color": {
+              "$type": "System.Numerics.Vector3, System.Private.CoreLib",
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Thickness": 3,
+            "Radius": 2
+          }
+        },
+        {
+          "$type": "TPie.Models.Elements.GearSetElement, TPie",
+          "GearSetID": 3,
+          "UseID": true,
+          "GearSetName": "DRK",
+          "DrawText": false,
+          "JobID": 32,
+          "IconID": 62832,
+          "Border": {
+            "$type": "TPie.Models.Elements.ItemBorder, TPie",
+            "Color": {
+              "$type": "System.Numerics.Vector3, System.Private.CoreLib",
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Thickness": 3,
+            "Radius": 2
+          }
+        },
+        {
+          "$type": "TPie.Models.Elements.GearSetElement, TPie",
+          "GearSetID": 4,
+          "UseID": true,
+          "GearSetName": "GNB",
+          "DrawText": false,
+          "JobID": 37,
+          "IconID": 62837,
+          "Border": {
+            "$type": "TPie.Models.Elements.ItemBorder, TPie",
+            "Color": {
+              "$type": "System.Numerics.Vector3, System.Private.CoreLib",
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Thickness": 3,
+            "Radius": 2
+          }
+        }
+      ],
+      "QuickActionIndex": -1,
+      "Color": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.05872787,
+        "Y": 0.07920595,
+        "Z": 0.6935484,
+        "W": 1.0
+      },
+      "Previewing": false,
+      "IsActive": false,
+      "HasInventoryItems": false
+    },
+    {
+      "$type": "TPie.Models.Ring, TPie",
+      "Name": "Healer",
+      "Rotation": 0.0,
+      "Radius": 150.0,
+      "ItemSize": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 40.0,
+        "Y": 40.0
+      },
+      "KeyBind": {
+        "$type": "TPie.Models.KeyBind, TPie",
+        "Key": 0,
+        "Ctrl": false,
+        "Alt": false,
+        "Shift": false,
+        "Toggle": false,
+        "Jobs": [],
+        "IsGlobal": true
+      },
+      "DrawLine": true,
+      "DrawSelectionBackground": true,
+      "ShowTooltips": false,
+      "Items": [
+        {
+          "$type": "TPie.Models.Elements.GearSetElement, TPie",
+          "GearSetID": 10,
+          "UseID": true,
+          "GearSetName": "WHM",
+          "DrawText": false,
+          "JobID": 24,
+          "IconID": 62824,
+          "Border": {
+            "$type": "TPie.Models.Elements.ItemBorder, TPie",
+            "Color": {
+              "$type": "System.Numerics.Vector3, System.Private.CoreLib",
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Thickness": 3,
+            "Radius": 2
+          }
+        },
+        {
+          "$type": "TPie.Models.Elements.GearSetElement, TPie",
+          "GearSetID": 11,
+          "UseID": true,
+          "GearSetName": "SCH",
+          "DrawText": false,
+          "JobID": 28,
+          "IconID": 62828,
+          "Border": {
+            "$type": "TPie.Models.Elements.ItemBorder, TPie",
+            "Color": {
+              "$type": "System.Numerics.Vector3, System.Private.CoreLib",
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Thickness": 3,
+            "Radius": 2
+          }
+        },
+        {
+          "$type": "TPie.Models.Elements.GearSetElement, TPie",
+          "GearSetID": 12,
+          "UseID": true,
+          "GearSetName": "AST",
+          "DrawText": false,
+          "JobID": 33,
+          "IconID": 62833,
+          "Border": {
+            "$type": "TPie.Models.Elements.ItemBorder, TPie",
+            "Color": {
+              "$type": "System.Numerics.Vector3, System.Private.CoreLib",
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Thickness": 3,
+            "Radius": 2
+          }
+        },
+        {
+          "$type": "TPie.Models.Elements.GearSetElement, TPie",
+          "GearSetID": 13,
+          "UseID": true,
+          "GearSetName": "RDM",
+          "DrawText": false,
+          "JobID": 40,
+          "IconID": 62840,
+          "Border": {
+            "$type": "TPie.Models.Elements.ItemBorder, TPie",
+            "Color": {
+              "$type": "System.Numerics.Vector3, System.Private.CoreLib",
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Thickness": 3,
+            "Radius": 2
+          }
+        }
+      ],
+      "QuickActionIndex": -1,
+      "Color": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.16320783,
+        "Y": 0.78225803,
+        "Z": 0.044159733,
+        "W": 1.0
+      },
+      "Previewing": false,
+      "IsActive": false,
+      "HasInventoryItems": false
+    },
+    {
+      "$type": "TPie.Models.Ring, TPie",
+      "Name": "DPS",
+      "Rotation": 0.0,
+      "Radius": 150.0,
+      "ItemSize": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 40.0,
+        "Y": 40.0
+      },
+      "KeyBind": {
+        "$type": "TPie.Models.KeyBind, TPie",
+        "Key": 0,
+        "Ctrl": false,
+        "Alt": false,
+        "Shift": false,
+        "Toggle": false,
+        "Jobs": [],
+        "IsGlobal": true
+      },
+      "DrawLine": true,
+      "DrawSelectionBackground": true,
+      "ShowTooltips": false,
+      "Items": [
+        {
+          "$type": "TPie.Models.Elements.GearSetElement, TPie",
+          "GearSetID": 5,
+          "UseID": true,
+          "GearSetName": "MNK",
+          "DrawText": false,
+          "JobID": 20,
+          "IconID": 62820,
+          "Border": {
+            "$type": "TPie.Models.Elements.ItemBorder, TPie",
+            "Color": {
+              "$type": "System.Numerics.Vector3, System.Private.CoreLib",
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Thickness": 3,
+            "Radius": 2
+          }
+        },
+        {
+          "$type": "TPie.Models.Elements.GearSetElement, TPie",
+          "GearSetID": 6,
+          "UseID": true,
+          "GearSetName": "DRG",
+          "DrawText": false,
+          "JobID": 22,
+          "IconID": 62822,
+          "Border": {
+            "$type": "TPie.Models.Elements.ItemBorder, TPie",
+            "Color": {
+              "$type": "System.Numerics.Vector3, System.Private.CoreLib",
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Thickness": 3,
+            "Radius": 2
+          }
+        },
+        {
+          "$type": "TPie.Models.Elements.GearSetElement, TPie",
+          "GearSetID": 7,
+          "UseID": true,
+          "GearSetName": "NIN",
+          "DrawText": false,
+          "JobID": 30,
+          "IconID": 62830,
+          "Border": {
+            "$type": "TPie.Models.Elements.ItemBorder, TPie",
+            "Color": {
+              "$type": "System.Numerics.Vector3, System.Private.CoreLib",
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Thickness": 3,
+            "Radius": 2
+          }
+        },
+        {
+          "$type": "TPie.Models.Elements.GearSetElement, TPie",
+          "GearSetID": 8,
+          "UseID": true,
+          "GearSetName": "SAM",
+          "DrawText": false,
+          "JobID": 34,
+          "IconID": 62834,
+          "Border": {
+            "$type": "TPie.Models.Elements.ItemBorder, TPie",
+            "Color": {
+              "$type": "System.Numerics.Vector3, System.Private.CoreLib",
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Thickness": 3,
+            "Radius": 2
+          }
+        },
+        {
+          "$type": "TPie.Models.Elements.GearSetElement, TPie",
+          "GearSetID": 9,
+          "UseID": true,
+          "GearSetName": "RPR",
+          "DrawText": false,
+          "JobID": 39,
+          "IconID": 62839,
+          "Border": {
+            "$type": "TPie.Models.Elements.ItemBorder, TPie",
+            "Color": {
+              "$type": "System.Numerics.Vector3, System.Private.CoreLib",
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Thickness": 3,
+            "Radius": 2
+          }
+        },
+        {
+          "$type": "TPie.Models.Elements.GearSetElement, TPie",
+          "GearSetID": 14,
+          "UseID": true,
+          "GearSetName": "BRD",
+          "DrawText": false,
+          "JobID": 23,
+          "IconID": 62823,
+          "Border": {
+            "$type": "TPie.Models.Elements.ItemBorder, TPie",
+            "Color": {
+              "$type": "System.Numerics.Vector3, System.Private.CoreLib",
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Thickness": 3,
+            "Radius": 2
+          }
+        },
+        {
+          "$type": "TPie.Models.Elements.GearSetElement, TPie",
+          "GearSetID": 15,
+          "UseID": true,
+          "GearSetName": "MCH",
+          "DrawText": false,
+          "JobID": 31,
+          "IconID": 62831,
+          "Border": {
+            "$type": "TPie.Models.Elements.ItemBorder, TPie",
+            "Color": {
+              "$type": "System.Numerics.Vector3, System.Private.CoreLib",
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Thickness": 3,
+            "Radius": 2
+          }
+        },
+        {
+          "$type": "TPie.Models.Elements.GearSetElement, TPie",
+          "GearSetID": 16,
+          "UseID": true,
+          "GearSetName": "DNC",
+          "DrawText": false,
+          "JobID": 38,
+          "IconID": 62838,
+          "Border": {
+            "$type": "TPie.Models.Elements.ItemBorder, TPie",
+            "Color": {
+              "$type": "System.Numerics.Vector3, System.Private.CoreLib",
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Thickness": 3,
+            "Radius": 2
+          }
+        },
+        {
+          "$type": "TPie.Models.Elements.GearSetElement, TPie",
+          "GearSetID": 17,
+          "UseID": true,
+          "GearSetName": "BLM",
+          "DrawText": false,
+          "JobID": 25,
+          "IconID": 62825,
+          "Border": {
+            "$type": "TPie.Models.Elements.ItemBorder, TPie",
+            "Color": {
+              "$type": "System.Numerics.Vector3, System.Private.CoreLib",
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Thickness": 3,
+            "Radius": 2
+          }
+        },
+        {
+          "$type": "TPie.Models.Elements.GearSetElement, TPie",
+          "GearSetID": 18,
+          "UseID": true,
+          "GearSetName": "SMN",
+          "DrawText": false,
+          "JobID": 27,
+          "IconID": 62827,
+          "Border": {
+            "$type": "TPie.Models.Elements.ItemBorder, TPie",
+            "Color": {
+              "$type": "System.Numerics.Vector3, System.Private.CoreLib",
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Thickness": 3,
+            "Radius": 2
+          }
+        },
+        {
+          "$type": "TPie.Models.Elements.GearSetElement, TPie",
+          "GearSetID": 19,
+          "UseID": true,
+          "GearSetName": "RDM",
+          "DrawText": false,
+          "JobID": 35,
+          "IconID": 62835,
+          "Border": {
+            "$type": "TPie.Models.Elements.ItemBorder, TPie",
+            "Color": {
+              "$type": "System.Numerics.Vector3, System.Private.CoreLib",
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Thickness": 3,
+            "Radius": 2
+          }
+        },
+        {
+          "$type": "TPie.Models.Elements.GearSetElement, TPie",
+          "GearSetID": 20,
+          "UseID": true,
+          "GearSetName": "RDM",
+          "DrawText": false,
+          "JobID": 36,
+          "IconID": 62836,
+          "Border": {
+            "$type": "TPie.Models.Elements.ItemBorder, TPie",
+            "Color": {
+              "$type": "System.Numerics.Vector3, System.Private.CoreLib",
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Thickness": 3,
+            "Radius": 2
+          }
+        }
+      ],
+      "QuickActionIndex": -1,
+      "Color": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.7298387,
+        "Y": 0.044143472,
+        "Z": 0.044143472,
+        "W": 1.0
+      },
+      "Previewing": false,
+      "IsActive": false,
+      "HasInventoryItems": false
+    },
+    {
+      "$type": "TPie.Models.Ring, TPie",
+      "Name": "Crafter",
+      "Rotation": 0.0,
+      "Radius": 150.0,
+      "ItemSize": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 40.0,
+        "Y": 40.0
+      },
+      "KeyBind": {
+        "$type": "TPie.Models.KeyBind, TPie",
+        "Key": 0,
+        "Ctrl": false,
+        "Alt": false,
+        "Shift": false,
+        "Toggle": false,
+        "Jobs": [],
+        "IsGlobal": true
+      },
+      "DrawLine": true,
+      "DrawSelectionBackground": true,
+      "ShowTooltips": false,
+      "Items": [
+        {
+          "$type": "TPie.Models.Elements.GearSetElement, TPie",
+          "GearSetID": 21,
+          "UseID": true,
+          "GearSetName": "WAR",
+          "DrawText": false,
+          "JobID": 8,
+          "IconID": 62808,
+          "Border": {
+            "$type": "TPie.Models.Elements.ItemBorder, TPie",
+            "Color": {
+              "$type": "System.Numerics.Vector3, System.Private.CoreLib",
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Thickness": 3,
+            "Radius": 2
+          }
+        },
+        {
+          "$type": "TPie.Models.Elements.GearSetElement, TPie",
+          "GearSetID": 22,
+          "UseID": true,
+          "GearSetName": "BSM",
+          "DrawText": false,
+          "JobID": 9,
+          "IconID": 62809,
+          "Border": {
+            "$type": "TPie.Models.Elements.ItemBorder, TPie",
+            "Color": {
+              "$type": "System.Numerics.Vector3, System.Private.CoreLib",
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Thickness": 3,
+            "Radius": 2
+          }
+        },
+        {
+          "$type": "TPie.Models.Elements.GearSetElement, TPie",
+          "GearSetID": 23,
+          "UseID": true,
+          "GearSetName": "ARM",
+          "DrawText": false,
+          "JobID": 10,
+          "IconID": 62810,
+          "Border": {
+            "$type": "TPie.Models.Elements.ItemBorder, TPie",
+            "Color": {
+              "$type": "System.Numerics.Vector3, System.Private.CoreLib",
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Thickness": 3,
+            "Radius": 2
+          }
+        },
+        {
+          "$type": "TPie.Models.Elements.GearSetElement, TPie",
+          "GearSetID": 24,
+          "UseID": true,
+          "GearSetName": "GSM",
+          "DrawText": false,
+          "JobID": 11,
+          "IconID": 62811,
+          "Border": {
+            "$type": "TPie.Models.Elements.ItemBorder, TPie",
+            "Color": {
+              "$type": "System.Numerics.Vector3, System.Private.CoreLib",
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Thickness": 3,
+            "Radius": 2
+          }
+        },
+        {
+          "$type": "TPie.Models.Elements.GearSetElement, TPie",
+          "GearSetID": 25,
+          "UseID": true,
+          "GearSetName": "LTW",
+          "DrawText": false,
+          "JobID": 12,
+          "IconID": 62812,
+          "Border": {
+            "$type": "TPie.Models.Elements.ItemBorder, TPie",
+            "Color": {
+              "$type": "System.Numerics.Vector3, System.Private.CoreLib",
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Thickness": 3,
+            "Radius": 2
+          }
+        },
+        {
+          "$type": "TPie.Models.Elements.GearSetElement, TPie",
+          "GearSetID": 26,
+          "UseID": true,
+          "GearSetName": "WVR",
+          "DrawText": false,
+          "JobID": 13,
+          "IconID": 62813,
+          "Border": {
+            "$type": "TPie.Models.Elements.ItemBorder, TPie",
+            "Color": {
+              "$type": "System.Numerics.Vector3, System.Private.CoreLib",
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Thickness": 3,
+            "Radius": 2
+          }
+        },
+        {
+          "$type": "TPie.Models.Elements.GearSetElement, TPie",
+          "GearSetID": 27,
+          "UseID": true,
+          "GearSetName": "ALC",
+          "DrawText": false,
+          "JobID": 14,
+          "IconID": 62814,
+          "Border": {
+            "$type": "TPie.Models.Elements.ItemBorder, TPie",
+            "Color": {
+              "$type": "System.Numerics.Vector3, System.Private.CoreLib",
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Thickness": 3,
+            "Radius": 2
+          }
+        },
+        {
+          "$type": "TPie.Models.Elements.GearSetElement, TPie",
+          "GearSetID": 28,
+          "UseID": true,
+          "GearSetName": "WAR",
+          "DrawText": false,
+          "JobID": 15,
+          "IconID": 62815,
+          "Border": {
+            "$type": "TPie.Models.Elements.ItemBorder, TPie",
+            "Color": {
+              "$type": "System.Numerics.Vector3, System.Private.CoreLib",
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Thickness": 3,
+            "Radius": 2
+          }
+        }
+      ],
+      "QuickActionIndex": -1,
+      "Color": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.6664847,
+        "Y": 0.022372548,
+        "Z": 0.6935484,
+        "W": 1.0
+      },
+      "Previewing": false,
+      "IsActive": false,
+      "HasInventoryItems": false
+    },
+    {
+      "$type": "TPie.Models.Ring, TPie",
+      "Name": "Gatherer",
+      "Rotation": 0.0,
+      "Radius": 150.0,
+      "ItemSize": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 40.0,
+        "Y": 40.0
+      },
+      "KeyBind": {
+        "$type": "TPie.Models.KeyBind, TPie",
+        "Key": 0,
+        "Ctrl": false,
+        "Alt": false,
+        "Shift": false,
+        "Toggle": false,
+        "Jobs": [],
+        "IsGlobal": true
+      },
+      "DrawLine": true,
+      "DrawSelectionBackground": true,
+      "ShowTooltips": false,
+      "Items": [
+        {
+          "$type": "TPie.Models.Elements.GearSetElement, TPie",
+          "GearSetID": 29,
+          "UseID": true,
+          "GearSetName": "MIN",
+          "DrawText": false,
+          "JobID": 16,
+          "IconID": 62816,
+          "Border": {
+            "$type": "TPie.Models.Elements.ItemBorder, TPie",
+            "Color": {
+              "$type": "System.Numerics.Vector3, System.Private.CoreLib",
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Thickness": 3,
+            "Radius": 2
+          }
+        },
+        {
+          "$type": "TPie.Models.Elements.GearSetElement, TPie",
+          "GearSetID": 30,
+          "UseID": true,
+          "GearSetName": "BOT",
+          "DrawText": false,
+          "JobID": 17,
+          "IconID": 62817,
+          "Border": {
+            "$type": "TPie.Models.Elements.ItemBorder, TPie",
+            "Color": {
+              "$type": "System.Numerics.Vector3, System.Private.CoreLib",
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Thickness": 3,
+            "Radius": 2
+          }
+        },
+        {
+          "$type": "TPie.Models.Elements.GearSetElement, TPie",
+          "GearSetID": 31,
+          "UseID": true,
+          "GearSetName": "WAR",
+          "DrawText": false,
+          "JobID": 18,
+          "IconID": 62818,
+          "Border": {
+            "$type": "TPie.Models.Elements.ItemBorder, TPie",
+            "Color": {
+              "$type": "System.Numerics.Vector3, System.Private.CoreLib",
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Thickness": 3,
+            "Radius": 2
+          }
+        }
+      ],
+      "QuickActionIndex": -1,
+      "Color": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.8830645,
+        "Y": 0.81443405,
+        "Z": 0.032046717,
+        "W": 1.0
+      },
+      "Previewing": false,
+      "IsActive": false,
+      "HasInventoryItems": false
+    },
+    {
+      "$type": "TPie.Models.Ring, TPie",
+      "Name": "Teleports",
+      "Rotation": 0.0,
+      "Radius": 150.0,
+      "ItemSize": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 40.0,
+        "Y": 40.0
+      },
+      "KeyBind": {
+        "$type": "TPie.Models.KeyBind, TPie",
+        "Key": 0,
+        "Ctrl": false,
+        "Alt": false,
+        "Shift": false,
+        "Toggle": false,
+        "Jobs": [],
+        "IsGlobal": true
+      },
+      "DrawLine": true,
+      "DrawSelectionBackground": true,
+      "ShowTooltips": false,
+      "Items": [
+        {
+          "$type": "TPie.Models.Elements.CommandElement, TPie",
+          "Name": "House",
+          "Command": "/tp private",
+          "IconID": 50823,
+          "Border": {
+            "$type": "TPie.Models.Elements.ItemBorder, TPie",
+            "Color": {
+              "$type": "System.Numerics.Vector3, System.Private.CoreLib",
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Thickness": 3,
+            "Radius": 2
+          }
+        },
+        {
+          "$type": "TPie.Models.Elements.CommandElement, TPie",
+          "Name": "Apartment",
+          "Command": "/tp apartment",
+          "IconID": 64025,
+          "Border": {
+            "$type": "TPie.Models.Elements.ItemBorder, TPie",
+            "Color": {
+              "$type": "System.Numerics.Vector3, System.Private.CoreLib",
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Thickness": 3,
+            "Radius": 2
+          }
+        },
+        {
+          "$type": "TPie.Models.Elements.CommandElement, TPie",
+          "Name": "Free Company",
+          "Command": "/tp free company",
+          "IconID": 50832,
+          "Border": {
+            "$type": "TPie.Models.Elements.ItemBorder, TPie",
+            "Color": {
+              "$type": "System.Numerics.Vector3, System.Private.CoreLib",
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Thickness": 3,
+            "Radius": 2
+          }
+        }
+      ],
+      "QuickActionIndex": -1,
+      "Color": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.574922,
+        "Z": 0.8387097,
+        "W": 1.0
+      },
+      "Previewing": false,
+      "IsActive": false,
+      "HasInventoryItems": false
+    }
+  ],
+  "AppearAtCursor": true,
+  "CenterPositionOffset": {
+    "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+    "X": 0.0,
+    "Y": 0.0
+  },
+  "AutoCenterCursor": false,
+  "UseCustomFont": true,
+  "FontSize": 20,
+  "DrawRingBackground": true,
+  "AnimationType": 1,
+  "AnimationDuration": 0.2,
+  "AnimateIconSizes": true,
+  "ShowCooldowns": true,
+  "ShowRemainingItemCount": true,
+  "KeybindPassthrough": false,
+  "GlobalBorderSettings": {
+    "$type": "TPie.Models.Elements.ItemBorder, TPie",
+    "Color": {
+      "$type": "System.Numerics.Vector3, System.Private.CoreLib",
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    "Thickness": 3,
+    "Radius": 2
+  }
+}

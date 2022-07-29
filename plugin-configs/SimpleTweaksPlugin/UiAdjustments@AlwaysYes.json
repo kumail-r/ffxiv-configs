@@ -1,0 +1,13 @@
+{
+  "YesNo": true,
+  "DutyConfirmation": true,
+  "CardsShop": true,
+  "RetainerVentures": true,
+  "MateriaMelds": true,
+  "MateriaExtractions": true,
+  "MateriaRetrievals": true,
+  "GlamourDispels": true,
+  "Desynthesis": true,
+  "ExceptionsYesNo": [],
+  "Version": 1
+}

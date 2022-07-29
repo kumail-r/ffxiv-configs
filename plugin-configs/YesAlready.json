@@ -1,0 +1,61 @@
+{
+  "$type": "YesAlready.YesAlreadyConfiguration, YesAlready",
+  "Version": 1,
+  "Enabled": true,
+  "ForcedYesKey": 0,
+  "DisableKey": 0,
+  "RootFolder": {
+    "$type": "YesAlready.TextFolderNode, YesAlready",
+    "Name": "/",
+    "Children": [
+      {
+        "$type": "YesAlready.TextEntryNode, YesAlready",
+        "Enabled": false,
+        "Text": "Teleport to",
+        "ZoneRestricted": false,
+        "ZoneText": "",
+        "IsYes": true
+      }
+    ]
+  },
+  "ListRootFolder": {
+    "$type": "YesAlready.TextFolderNode, YesAlready",
+    "Name": "/",
+    "Children": [
+      {
+        "$type": "YesAlready.ListEntryNode, YesAlready",
+        "Enabled": false,
+        "Text": "Add some text here!",
+        "TargetRestricted": false,
+        "TargetText": ""
+      }
+    ]
+  },
+  "TalkRootFolder": {
+    "$type": "YesAlready.TextFolderNode, YesAlready",
+    "Name": "/",
+    "Children": [
+      {
+        "$type": "YesAlready.TalkEntryNode, YesAlready",
+        "Enabled": false,
+        "TargetText": "Add some text here!"
+      }
+    ]
+  },
+  "DesynthDialogEnabled": false,
+  "DesynthBulkDialogEnabled": false,
+  "MaterializeDialogEnabled": true,
+  "MateriaRetrieveDialogEnabled": false,
+  "ItemInspectionResultEnabled": false,
+  "ItemInspectionResultRateLimiter": 0,
+  "RetainerTaskAskEnabled": true,
+  "RetainerTaskResultEnabled": true,
+  "GrandCompanySupplyReward": true,
+  "ShopCardDialog": false,
+  "JournalResultCompleteEnabled": true,
+  "ContentsFinderConfirmEnabled": false,
+  "ContentsFinderOneTimeConfirmEnabled": false,
+  "InclusionShopRememberEnabled": true,
+  "InclusionShopRememberCategory": 7,
+  "InclusionShopRememberSubcategory": 1
+}

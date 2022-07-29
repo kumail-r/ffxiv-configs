@@ -1,0 +1,353 @@
+{
+  "CharacterName": "Krunchy Sock",
+  "LocalContentID": 18014498557525443,
+  "World": "Zalera",
+  "Messages": {
+    "DutyRoulette": [
+      {
+        "ModuleType": 2,
+        "Time": "2022-07-27T04:40:33.2114618Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-07-27T04:40:33.2285759Z",
+        "Message": "Normal Raids Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-07-27T04:40:33.2293452Z",
+        "Message": "All Tasks Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-07-27T13:49:23.4962365Z",
+        "Message": "Trials Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-07-27T13:49:23.5015765Z",
+        "Message": "All Tasks Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-07-27T15:00:00.0846092Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-07-27T16:30:01.3767377Z",
+        "Message": "Expert Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-07-27T16:30:01.3821074Z",
+        "Message": "All Tasks Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-07-27T17:07:21.7533122Z",
+        "Message": "Trials Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-07-27T17:07:21.7536618Z",
+        "Message": "All Tasks Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-07-27T17:36:26.3664355Z",
+        "Message": "Normal Raids Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-07-27T17:36:26.3674079Z",
+        "Message": "All Tasks Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-07-28T16:36:56.6826861Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-07-28T18:18:41.2768325Z",
+        "Message": "Trials Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-07-28T18:18:41.2825355Z",
+        "Message": "All Tasks Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-07-28T18:24:44.4896724Z",
+        "Message": "Normal Raids Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-07-28T18:24:44.4900293Z",
+        "Message": "All Tasks Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-07-28T19:25:32.1596428Z",
+        "Message": "Frontline Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-07-28T19:25:32.160026Z",
+        "Message": "All Tasks Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-07-29T03:41:00.9319024Z",
+        "Message": "Expert Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-07-29T03:41:00.937776Z",
+        "Message": "All Tasks Completed"
+      }
+    ],
+    "MiniCactpot": [
+      {
+        "ModuleType": 11,
+        "Time": "2022-07-27T04:40:33.2137444Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-07-27T15:00:00.0852758Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-07-27T17:22:54.0027188Z",
+        "Message": "Mini Cactpot Ticket Purchased"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-07-27T17:23:00.0293004Z",
+        "Message": "Mini Cactpot Ticket Purchased"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-07-27T17:23:08.3225245Z",
+        "Message": "Mini Cactpot Ticket Purchased"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-07-27T21:42:49.7158298Z",
+        "Message": "Enabled"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-07-28T16:36:56.6997489Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-07-28T17:04:20.9140474Z",
+        "Message": "Mini Cactpot Ticket Purchased"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-07-28T17:04:31.6283568Z",
+        "Message": "Mini Cactpot Ticket Purchased"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-07-28T17:04:38.4055344Z",
+        "Message": "Mini Cactpot Ticket Purchased"
+      }
+    ],
+    "DomanEnclave": [
+      {
+        "ModuleType": 13,
+        "Time": "2022-07-27T04:40:33.2145087Z",
+        "Message": "Weekly Reset - Resetting"
+      },
+      {
+        "ModuleType": 13,
+        "Time": "2022-07-27T22:02:57.8848316Z",
+        "Message": "Weekly Allowance Updated - 40000"
+      }
+    ],
+    "FashionReport": [
+      {
+        "ModuleType": 14,
+        "Time": "2022-07-27T04:40:33.215631Z",
+        "Message": "Weekly Reset - Resetting"
+      }
+    ],
+    "JumboCactpot": [
+      {
+        "ModuleType": 15,
+        "Time": "2022-07-27T04:40:33.2198282Z",
+        "Message": "Weekly Reset - Resetting"
+      },
+      {
+        "ModuleType": 15,
+        "Time": "2022-07-27T21:42:51.1307376Z",
+        "Message": "Enabled"
+      },
+      {
+        "ModuleType": 15,
+        "Time": "2022-07-27T21:43:35.0244827Z",
+        "Message": "ReSyncing Tickets"
+      }
+    ],
+    "HuntMarksWeekly": [
+      {
+        "ModuleType": 16,
+        "Time": "2022-07-27T04:40:33.2207163Z",
+        "Message": "Weekly Reset - Resetting"
+      },
+      {
+        "ModuleType": 16,
+        "Time": "2022-07-27T04:40:33.2479705Z",
+        "Message": "HeavenswardElite - Mark Bill Obtained"
+      },
+      {
+        "ModuleType": 16,
+        "Time": "2022-07-27T04:40:33.248605Z",
+        "Message": "StormbloodElite - Mark Bill Obtained"
+      },
+      {
+        "ModuleType": 16,
+        "Time": "2022-07-27T04:40:33.2491708Z",
+        "Message": "ShadowbringersElite - Mark Bill Obtained"
+      },
+      {
+        "ModuleType": 16,
+        "Time": "2022-07-27T04:40:33.2579733Z",
+        "Message": "RealmRebornLevelOne - Mark Bill Obtained"
+      },
+      {
+        "ModuleType": 16,
+        "Time": "2022-07-27T04:40:33.2598528Z",
+        "Message": "ShadowbringersLevelOne - Mark Bill Obtained"
+      },
+      {
+        "ModuleType": 16,
+        "Time": "2022-07-27T04:40:33.2605093Z",
+        "Message": "ShadowbringersLevelTwo - Mark Bill Obtained"
+      },
+      {
+        "ModuleType": 16,
+        "Time": "2022-07-27T04:40:33.260908Z",
+        "Message": "ShadowbringersLevelThree - Mark Bill Obtained"
+      },
+      {
+        "ModuleType": 16,
+        "Time": "2022-07-27T15:00:01.1532868Z",
+        "Message": "RealmRebornLevelOne - Mark Bill Obtained"
+      },
+      {
+        "ModuleType": 16,
+        "Time": "2022-07-27T15:00:01.1538667Z",
+        "Message": "ShadowbringersLevelOne - Mark Bill Obtained"
+      },
+      {
+        "ModuleType": 16,
+        "Time": "2022-07-27T15:00:01.1542799Z",
+        "Message": "ShadowbringersLevelTwo - Mark Bill Obtained"
+      },
+      {
+        "ModuleType": 16,
+        "Time": "2022-07-27T15:00:01.1545926Z",
+        "Message": "ShadowbringersLevelThree - Mark Bill Obtained"
+      },
+      {
+        "ModuleType": 16,
+        "Time": "2022-07-28T16:36:56.9105814Z",
+        "Message": "RealmRebornLevelOne - Mark Bill Obtained"
+      },
+      {
+        "ModuleType": 16,
+        "Time": "2022-07-28T16:36:56.9111636Z",
+        "Message": "ShadowbringersLevelOne - Mark Bill Obtained"
+      },
+      {
+        "ModuleType": 16,
+        "Time": "2022-07-28T16:36:56.9116801Z",
+        "Message": "ShadowbringersLevelTwo - Mark Bill Obtained"
+      },
+      {
+        "ModuleType": 16,
+        "Time": "2022-07-28T16:36:56.9120589Z",
+        "Message": "ShadowbringersLevelThree - Mark Bill Obtained"
+      }
+    ],
+    "HuntMarksDaily": [
+      {
+        "ModuleType": 19,
+        "Time": "2022-07-27T04:40:33.2214116Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 19,
+        "Time": "2022-07-27T15:00:00.0858143Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 19,
+        "Time": "2022-07-28T16:36:56.7004847Z",
+        "Message": "Daily Reset - Resetting"
+      }
+    ],
+    "TreasureMap": [
+      {
+        "ModuleType": 8,
+        "Time": "2022-07-27T15:14:17.6806263Z",
+        "Message": "ReSyncing Time - LastGathered: 7/26/2022 5:14:00 PM"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-07-29T04:48:29.9320859Z",
+        "Message": "ReSyncing Time - LastGathered: 7/28/2022 6:48:00 AM"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-07-29T14:00:47.9714856Z",
+        "Message": "ReSyncing Time - LastGathered: 7/28/2022 4:00:00 PM"
+      }
+    ],
+    "WondrousTails": [
+      {
+        "ModuleType": 7,
+        "Time": "2022-07-27T21:42:46.3954234Z",
+        "Message": "Enabled"
+      }
+    ],
+    "CustomDelivery": [
+      {
+        "ModuleType": 12,
+        "Time": "2022-07-27T21:42:55.9738727Z",
+        "Message": "Enabled"
+      },
+      {
+        "ModuleType": 12,
+        "Time": "2022-07-27T21:42:59.0266217Z",
+        "Message": "Threshold - 1"
+      },
+      {
+        "ModuleType": 12,
+        "Time": "2022-07-27T21:43:00.1739921Z",
+        "Message": "Comparison Mode - EqualTo"
+      },
+      {
+        "ModuleType": 12,
+        "Time": "2022-07-27T21:43:00.7402057Z",
+        "Message": "Threshold - 9"
+      },
+      {
+        "ModuleType": 12,
+        "Time": "2022-07-27T21:43:01.2849338Z",
+        "Message": "Threshold - 0"
+      }
+    ]
+  },
+  "Version": 1
+}

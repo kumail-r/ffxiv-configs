@@ -1,0 +1,282 @@
+{
+  "$type": "FFLogsViewer.Configuration, FFLogsViewer",
+  "Version": 1,
+  "ClientId": "96e11fce-cc0c-4c58-b31b-3041f698c414",
+  "ClientSecret": "G17zrHhSbAHYB2aPgkHkZHApab5Z4ZjdW1O9DoJu",
+  "ContextMenu": true,
+  "ContextMenuStreamer": false,
+  "OpenInBrowser": false,
+  "ContextMenuButtonName": "Search FF Logs",
+  "HideInCombat": false,
+  "IsUpdateDismissed": false,
+  "IsDefaultLayout": true,
+  "NbOfDecimalDigits": 1,
+  "Layout": [
+    {
+      "$type": "FFLogsViewer.LayoutEntry, FFLogsViewer",
+      "Type": 2,
+      "Alias": "Asphodelos",
+      "Expansion": "-",
+      "Zone": "-",
+      "ZoneId": 0,
+      "Encounter": "-",
+      "EncounterId": 0,
+      "Difficulty": "-",
+      "DifficultyId": 0
+    },
+    {
+      "$type": "FFLogsViewer.LayoutEntry, FFLogsViewer",
+      "Type": 1,
+      "Alias": "",
+      "Expansion": "Endwalker",
+      "Zone": "Asphodelos",
+      "ZoneId": 44,
+      "Encounter": "Erichthonios",
+      "EncounterId": 78,
+      "Difficulty": "Savage",
+      "DifficultyId": 101
+    },
+    {
+      "$type": "FFLogsViewer.LayoutEntry, FFLogsViewer",
+      "Type": 1,
+      "Alias": "",
+      "Expansion": "Endwalker",
+      "Zone": "Asphodelos",
+      "ZoneId": 44,
+      "Encounter": "Hippokampos",
+      "EncounterId": 79,
+      "Difficulty": "Savage",
+      "DifficultyId": 101
+    },
+    {
+      "$type": "FFLogsViewer.LayoutEntry, FFLogsViewer",
+      "Type": 1,
+      "Alias": "",
+      "Expansion": "Endwalker",
+      "Zone": "Asphodelos",
+      "ZoneId": 44,
+      "Encounter": "Phoinix",
+      "EncounterId": 80,
+      "Difficulty": "Savage",
+      "DifficultyId": 101
+    },
+    {
+      "$type": "FFLogsViewer.LayoutEntry, FFLogsViewer",
+      "Type": 1,
+      "Alias": "",
+      "Expansion": "Endwalker",
+      "Zone": "Asphodelos",
+      "ZoneId": 44,
+      "Encounter": "Hesperos",
+      "EncounterId": 81,
+      "Difficulty": "Savage",
+      "DifficultyId": 101
+    },
+    {
+      "$type": "FFLogsViewer.LayoutEntry, FFLogsViewer",
+      "Type": 1,
+      "Alias": "",
+      "Expansion": "Endwalker",
+      "Zone": "Asphodelos",
+      "ZoneId": 44,
+      "Encounter": "Hesperos II",
+      "EncounterId": 82,
+      "Difficulty": "Savage",
+      "DifficultyId": 101
+    },
+    {
+      "$type": "FFLogsViewer.LayoutEntry, FFLogsViewer",
+      "Type": 2,
+      "Alias": "Ultimates (EW)",
+      "Expansion": "-",
+      "Zone": "-",
+      "ZoneId": 0,
+      "Encounter": "-",
+      "EncounterId": 0,
+      "Difficulty": "-",
+      "DifficultyId": 0
+    },
+    {
+      "$type": "FFLogsViewer.LayoutEntry, FFLogsViewer",
+      "Type": 1,
+      "Alias": "UCoB",
+      "Expansion": "Endwalker",
+      "Zone": "Ultimates (Legacy)",
+      "ZoneId": 43,
+      "Encounter": "The Unending Coil of Bahamut",
+      "EncounterId": 1060,
+      "Difficulty": "Normal",
+      "DifficultyId": 100
+    },
+    {
+      "$type": "FFLogsViewer.LayoutEntry, FFLogsViewer",
+      "Type": 1,
+      "Alias": "UwU",
+      "Expansion": "Endwalker",
+      "Zone": "Ultimates (Legacy)",
+      "ZoneId": 43,
+      "Encounter": "The Weapon's Refrain",
+      "EncounterId": 1061,
+      "Difficulty": "Normal",
+      "DifficultyId": 100
+    },
+    {
+      "$type": "FFLogsViewer.LayoutEntry, FFLogsViewer",
+      "Type": 1,
+      "Alias": "TEA",
+      "Expansion": "Endwalker",
+      "Zone": "Ultimates (Legacy)",
+      "ZoneId": 43,
+      "Encounter": "The Epic of Alexander",
+      "EncounterId": 1062,
+      "Difficulty": "Normal",
+      "DifficultyId": 100
+    },
+    {
+      "$type": "FFLogsViewer.LayoutEntry, FFLogsViewer",
+      "Type": 1,
+      "Alias": "DSR",
+      "Expansion": "Endwalker",
+      "Zone": "Ultimates",
+      "ZoneId": 45,
+      "Encounter": "Dragonsong's Reprise",
+      "EncounterId": 1064,
+      "Difficulty": "Normal",
+      "DifficultyId": 100
+    },
+    {
+      "$type": "FFLogsViewer.LayoutEntry, FFLogsViewer",
+      "Type": 2,
+      "Alias": "Trials (Extreme)",
+      "Expansion": "-",
+      "Zone": "-",
+      "ZoneId": 0,
+      "Encounter": "-",
+      "EncounterId": 0,
+      "Difficulty": "-",
+      "DifficultyId": 0
+    },
+    {
+      "$type": "FFLogsViewer.LayoutEntry, FFLogsViewer",
+      "Type": 1,
+      "Alias": "",
+      "Expansion": "Endwalker",
+      "Zone": "Trials (Extreme)",
+      "ZoneId": 42,
+      "Encounter": "Zodiark",
+      "EncounterId": 1058,
+      "Difficulty": "Normal",
+      "DifficultyId": 100
+    },
+    {
+      "$type": "FFLogsViewer.LayoutEntry, FFLogsViewer",
+      "Type": 1,
+      "Alias": "",
+      "Expansion": "Endwalker",
+      "Zone": "Trials (Extreme)",
+      "ZoneId": 42,
+      "Encounter": "Hydaelyn",
+      "EncounterId": 1059,
+      "Difficulty": "Normal",
+      "DifficultyId": 100
+    },
+    {
+      "$type": "FFLogsViewer.LayoutEntry, FFLogsViewer",
+      "Type": 1,
+      "Alias": "",
+      "Expansion": "Endwalker",
+      "Zone": "Trials (Extreme)",
+      "ZoneId": 42,
+      "Encounter": "Endsinger",
+      "EncounterId": 1063,
+      "Difficulty": "Normal",
+      "DifficultyId": 100
+    }
+  ],
+  "Metric": {
+    "$type": "FFLogsViewer.Model.Metric, FFLogsViewer",
+    "Name": "rDPS",
+    "InternalName": "rdps"
+  },
+  "Stats": [
+    {
+      "$type": "FFLogsViewer.Model.Stat, FFLogsViewer",
+      "Alias": "",
+      "Name": "Best",
+      "Type": 0,
+      "IsEnabled": true
+    },
+    {
+      "$type": "FFLogsViewer.Model.Stat, FFLogsViewer",
+      "Alias": "Med.",
+      "Name": "Median",
+      "Type": 1,
+      "IsEnabled": true
+    },
+    {
+      "$type": "FFLogsViewer.Model.Stat, FFLogsViewer",
+      "Alias": "",
+      "Name": "Kills",
+      "Type": 2,
+      "IsEnabled": true
+    },
+    {
+      "$type": "FFLogsViewer.Model.Stat, FFLogsViewer",
+      "Alias": "",
+      "Name": "Fastest",
+      "Type": 3,
+      "IsEnabled": false
+    },
+    {
+      "$type": "FFLogsViewer.Model.Stat, FFLogsViewer",
+      "Alias": "/metric/",
+      "Name": "Best Metric",
+      "Type": 4,
+      "IsEnabled": false
+    },
+    {
+      "$type": "FFLogsViewer.Model.Stat, FFLogsViewer",
+      "Alias": "",
+      "Name": "Job",
+      "Type": 5,
+      "IsEnabled": true
+    },
+    {
+      "$type": "FFLogsViewer.Model.Stat, FFLogsViewer",
+      "Alias": "",
+      "Name": "Best Job",
+      "Type": 6,
+      "IsEnabled": false
+    },
+    {
+      "$type": "FFLogsViewer.Model.Stat, FFLogsViewer",
+      "Alias": "ASP",
+      "Name": "All Stars Points",
+      "Type": 7,
+      "IsEnabled": false
+    },
+    {
+      "$type": "FFLogsViewer.Model.Stat, FFLogsViewer",
+      "Alias": "ASP R",
+      "Name": "All Stars Rank",
+      "Type": 8,
+      "IsEnabled": false
+    },
+    {
+      "$type": "FFLogsViewer.Model.Stat, FFLogsViewer",
+      "Alias": "ASP R%",
+      "Name": "All Stars Rank %",
+      "Type": 9,
+      "IsEnabled": false
+    }
+  ],
+  "Style": {
+    "$type": "FFLogsViewer.Model.Style, FFLogsViewer",
+    "MinMainWindowWidth": 390.0,
+    "MainWindowFlags": 1096,
+    "MainTableFlags": 25088,
+    "IsHeaderSeparatorDrawn": true,
+    "IsSizeFixed": false,
+    "IsCloseHotkeyRespected": true
+  }
+}

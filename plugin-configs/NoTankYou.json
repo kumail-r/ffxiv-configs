@@ -1,0 +1,147 @@
+{
+  "$type": "NoTankYou.Data.Configuration, NoTankYou",
+  "DeveloperMode": false,
+  "Version": 1,
+  "DebugSettings": {
+    "$type": "NoTankYou.Data.DebugSettings, NoTankYou",
+    "ContentDirector": true
+  },
+  "ModuleSettings": {
+    "$type": "NoTankYou.Data.ModuleSettings, NoTankYou",
+    "Dancer": {
+      "$type": "NoTankYou.Data.Modules.DancerModuleSettings, NoTankYou",
+      "Enabled": true,
+      "SoloMode": true,
+      "Priority": 1,
+      "DutiesOnly": true
+    },
+    "Food": {
+      "$type": "NoTankYou.Data.Modules.FoodModuleSettings, NoTankYou",
+      "FoodEarlyWarningTime": 600,
+      "SavageDuties": true,
+      "UltimateDuties": true,
+      "DisableInCombat": true,
+      "ExtremeUnreal": true,
+      "Enabled": true,
+      "SoloMode": false,
+      "Priority": 1,
+      "DutiesOnly": true
+    },
+    "Sage": {
+      "$type": "NoTankYou.Data.Modules.SageModuleSettings, NoTankYou",
+      "Enabled": true,
+      "SoloMode": true,
+      "Priority": 1,
+      "DutiesOnly": true
+    },
+    "Scholar": {
+      "$type": "NoTankYou.Data.Modules.ScholarModuleSettings, NoTankYou",
+      "Enabled": true,
+      "SoloMode": true,
+      "Priority": 1,
+      "DutiesOnly": true
+    },
+    "Summoner": {
+      "$type": "NoTankYou.Data.Modules.SummonerModuleSettings, NoTankYou",
+      "Enabled": true,
+      "SoloMode": true,
+      "Priority": 1,
+      "DutiesOnly": true
+    },
+    "Tank": {
+      "$type": "NoTankYou.Data.Modules.TankModuleSettings, NoTankYou",
+      "DisableInAllianceRaid": true,
+      "CheckAllianceStances": false,
+      "Enabled": true,
+      "SoloMode": true,
+      "Priority": 1,
+      "DutiesOnly": true
+    },
+    "BlueMage": {
+      "$type": "NoTankYou.Data.Modules.BlueMageModuleSettings, NoTankYou",
+      "Mimicry": false,
+      "TankStance": false,
+      "BasicInstinct": false,
+      "Enabled": false,
+      "SoloMode": false,
+      "Priority": 1,
+      "DutiesOnly": true
+    },
+    "FreeCompany": {
+      "$type": "NoTankYou.Data.Modules.FreeCompanyModuleSettings, NoTankYou",
+      "ScanMode": 1,
+      "BuffCount": 2,
+      "BuffList": [
+        365,
+        360
+      ],
+      "Enabled": true,
+      "SoloMode": true,
+      "Priority": 1,
+      "DutiesOnly": false
+    }
+  },
+  "DisplaySettings": {
+    "$type": "NoTankYou.Data.DisplaySettings, NoTankYou",
+    "PartyOverlay": {
+      "$type": "NoTankYou.Data.Overlays.PartyOverlaySettings, NoTankYou",
+      "Enabled": true,
+      "WarningText": true,
+      "PlayerName": true,
+      "JobIcon": true,
+      "FlashingEffects": true,
+      "WarningTextColor": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.8,
+        "Y": 0.2,
+        "Z": 0.2,
+        "W": 1.0
+      },
+      "WarningOutlineColor": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 1.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "DisableInSanctuary": false
+    },
+    "BannerOverlay": {
+      "$type": "NoTankYou.Data.Overlays.BannerOverlaySettings, NoTankYou",
+      "Enabled": false,
+      "Scale": 1.0,
+      "WarningCount": 8,
+      "Mode": 1,
+      "Position": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 512.0,
+        "Y": 512.0
+      },
+      "Reposition": false,
+      "WarningShield": true,
+      "WarningText": true,
+      "Icon": true,
+      "PlayerNames": true,
+      "IconText": true,
+      "DisableInSanctuary": false
+    },
+    "TippyOverlay": {
+      "$type": "NoTankYou.Data.Overlays.TippyOverlaySettings, NoTankYou",
+      "DisableInSanctuary": false,
+      "WarningFrequency": 30,
+      "Enabled": false,
+      "SoloMode": false,
+      "Priority": 1,
+      "DutiesOnly": true
+    }
+  },
+  "SystemSettings": {
+    "$type": "NoTankYou.Data.SystemSettings, NoTankYou",
+    "DisablePartyListVisibilityChecking": false,
+    "Blacklist": {
+      "$type": "NoTankYou.Data.Components.BlacklistSettings, NoTankYou",
+      "Enabled": false,
+      "BlacklistedZones": []
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "$type": "DeathRecap.Configuration, DeathRecap",
+  "CaptureSelf": true,
+  "CaptureParty": true,
+  "CaptureOthers": false,
+  "SelfNotification": 2,
+  "PartyNotification": 1,
+  "OthersNotification": 0,
+  "SelfNotificationOnlyInstances": true,
+  "PartyNotificationOnlyInstances": true,
+  "OthersNotificationOnlyInstances": false,
+  "ShowTip": true,
+  "KeepCombatEventsForSeconds": 60,
+  "KeepDeathsForMinutes": 60,
+  "ChatType": 1,
+  "Version": 0
+}
