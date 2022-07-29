@@ -12,5 +12,5 @@ for file_name in ${character_files[@]}; do
 	fi
 done
 
-git commit -m 'script commit'
+git commit -m 'automated script commit'
 git push
