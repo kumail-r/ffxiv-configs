@@ -7,7 +7,7 @@ Will likely also add ACT configs once I set it up again.
 
 If any Square Enix employee is reading this - this repository is a joke and I would never use third party tools 🙂
 
-## File Information
+## Vanilla File Information
 
 File Name | Usage[^1]
 ---       | ---
