@@ -3,6 +3,7 @@
 cd /home/kumail/Code/ffxiv-configs
 cp /home/kumail/.xlcore/ffxivConfig/MACROSYS.dat /home/kumail/Code/ffxiv-configs/universal-files/MACROSYS.dat
 
+# this array contains all of the file names to be moved over from the character folder
 character_files=( "ACQ" "ADDON" "COMMON" "CONTROL0" "CONTROL1" "GEARSET" "GS" "HOTBAR" "ITEMFDR" "ITEMODR" "KEYBIND" "LOGFLTR" "UISAVE" "MACRO" )
 
 for file_name in ${character_files[@]}; do
