@@ -25,4 +25,6 @@ LOGFLTR   | This contains your **Chat log filters**
 MACRO     | This is your **Macros**
 UISAVE    | This contains **timers** such as the **retainer venture timer**, possibly other stuff
 
+Any missed files are likely covered [here](https://github.com/carriejv/libxivdat#dat-type-support). 
+
 [^1]: [/u/IHellMasker](https://www.reddit.com/r/ffxiv/comments/2o9axc/ffxiv_character_data_files/)
