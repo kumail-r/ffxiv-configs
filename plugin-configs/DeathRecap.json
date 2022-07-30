@@ -4,7 +4,7 @@
   "CaptureParty": true,
   "CaptureOthers": false,
   "SelfNotification": 2,
-  "PartyNotification": 1,
+  "PartyNotification": 0,
   "OthersNotification": 0,
   "SelfNotificationOnlyInstances": true,
   "PartyNotificationOnlyInstances": true,

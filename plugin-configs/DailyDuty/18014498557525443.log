@@ -168,6 +168,16 @@
         "ModuleType": 2,
         "Time": "2022-07-30T19:31:58.1571228Z",
         "Message": "All Tasks Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-07-30T22:22:44.0441863Z",
+        "Message": "Expert Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-07-30T22:22:44.048738Z",
+        "Message": "All Tasks Completed"
       }
     ],
     "MiniCactpot": [

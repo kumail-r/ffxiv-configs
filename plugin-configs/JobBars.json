@@ -14,8 +14,8 @@
   "GaugePositionType": 0,
   "GaugePositionGlobal": {
     "$type": "System.Numerics.Vector2, System.Private.CoreLib",
-    "X": 725.0,
-    "Y": 809.0
+    "X": 964.0,
+    "Y": 836.0
   },
   "GaugePerJobPosition": {
     "$type": "JobBars.Data.VectorValueConfig, JobBars",
@@ -99,7 +99,8 @@
   "GaugeColor": {
     "$type": "JobBars.Data.ColorConfig, JobBars",
     "Color": {
-      "$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[System.String, System.Private.CoreLib]], System.Private.CoreLib"
+      "$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+      "Eukrasian Dosis": "Purple"
     }
   },
   "GaugeType": {

@@ -13,7 +13,7 @@
           "$type": "System.Collections.Generic.Dictionary`2[[Sonar.Enums.HuntRank, Sonar],[Sonar.Enums.SonarJurisdiction, Sonar]], System.Private.CoreLib",
           "None": 5,
           "B": 1,
-          "A": 4,
+          "A": 3,
           "S": 5,
           "SSMinion": 5,
           "SS": 5
@@ -22,7 +22,7 @@
           "$type": "System.Collections.Generic.Dictionary`2[[Sonar.Enums.HuntRank, Sonar],[Sonar.Enums.SonarJurisdiction, Sonar]], System.Private.CoreLib",
           "None": 5,
           "B": 1,
-          "A": 4,
+          "A": 3,
           "S": 5,
           "SSMinion": 5,
           "SS": 5
@@ -31,7 +31,7 @@
           "$type": "System.Collections.Generic.Dictionary`2[[Sonar.Enums.HuntRank, Sonar],[Sonar.Enums.SonarJurisdiction, Sonar]], System.Private.CoreLib",
           "None": 5,
           "B": 1,
-          "A": 4,
+          "A": 3,
           "S": 5,
           "SSMinion": 5,
           "SS": 5
@@ -40,7 +40,7 @@
           "$type": "System.Collections.Generic.Dictionary`2[[Sonar.Enums.HuntRank, Sonar],[Sonar.Enums.SonarJurisdiction, Sonar]], System.Private.CoreLib",
           "None": 5,
           "B": 1,
-          "A": 4,
+          "A": 3,
           "S": 5,
           "SSMinion": 5,
           "SS": 5
@@ -49,7 +49,7 @@
           "$type": "System.Collections.Generic.Dictionary`2[[Sonar.Enums.HuntRank, Sonar],[Sonar.Enums.SonarJurisdiction, Sonar]], System.Private.CoreLib",
           "None": 5,
           "B": 1,
-          "A": 4,
+          "A": 3,
           "S": 5,
           "SSMinion": 5,
           "SS": 5
@@ -58,7 +58,7 @@
           "$type": "System.Collections.Generic.Dictionary`2[[Sonar.Enums.HuntRank, Sonar],[Sonar.Enums.SonarJurisdiction, Sonar]], System.Private.CoreLib",
           "None": 5,
           "B": 1,
-          "A": 4,
+          "A": 3,
           "S": 5,
           "SSMinion": 5,
           "SS": 5
@@ -162,9 +162,9 @@
   "SoundVolume": 0.5,
   "Language": 0,
   "SortingMode": 1,
-  "DisableChatInDuty": false,
-  "DisableSoundInDuty": false,
-  "AllSRankSettings": true,
+  "DisableChatInDuty": true,
+  "DisableSoundInDuty": true,
+  "AllSRankSettings": false,
   "AdvancedHuntReportSettings": false,
   "DisplayHuntDeadTimer": 300,
   "DisplayHuntUpdateTimer": 3600,
