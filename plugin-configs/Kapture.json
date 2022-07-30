@@ -7,7 +7,7 @@
   "Enabled": true,
   "PluginLanguage": 0,
   "ShowLootOverlay": true,
-  "ShowRollMonitorOverlay": true,
+  "ShowRollMonitorOverlay": false,
   "AddEnabled": true,
   "CastEnabled": true,
   "CraftEnabled": false,

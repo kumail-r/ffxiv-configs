@@ -28,7 +28,7 @@
       },
       {
         "Tracked": false,
-        "Completed": false,
+        "Completed": true,
         "Type": 6
       },
       {
@@ -48,7 +48,7 @@
       },
       {
         "Tracked": false,
-        "Completed": false,
+        "Completed": true,
         "Type": 17
       },
       {
@@ -99,7 +99,7 @@
     "ShowTodoTask": true
   },
   "TreasureMap": {
-    "LastMapGathered": "2022-07-28T20:00:00Z",
+    "LastMapGathered": "2022-07-29T10:18:00Z",
     "NextReset": "0001-01-01T00:00:00",
     "Enabled": false,
     "ZoneChangeReminder": false,
@@ -128,7 +128,7 @@
     "ShowTodoTask": true
   },
   "MiniCactpot": {
-    "TicketsRemaining": 3,
+    "TicketsRemaining": 0,
     "EnableClickableLink": false,
     "NextReset": "2022-07-30T15:00:00Z",
     "Enabled": true,
