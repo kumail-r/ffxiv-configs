@@ -8,7 +8,7 @@
     "TrackedRoulettes": [
       {
         "Tracked": false,
-        "Completed": true,
+        "Completed": false,
         "Type": 5
       },
       {
@@ -48,12 +48,12 @@
       },
       {
         "Tracked": false,
-        "Completed": true,
+        "Completed": false,
         "Type": 17
       },
       {
         "Tracked": false,
-        "Completed": true,
+        "Completed": false,
         "Type": 7
       },
       {
@@ -62,7 +62,7 @@
         "Type": 9
       }
     ],
-    "NextReset": "2022-07-31T15:00:00Z",
+    "NextReset": "2022-08-01T15:00:00Z",
     "Enabled": false,
     "ZoneChangeReminder": false,
     "LoginReminder": false,
@@ -86,12 +86,12 @@
   },
   "JumboCactpot": {
     "Tickets": [
-      9740,
-      2435,
-      5942
+      8622,
+      3438,
+      2435
     ],
     "EnableClickableLink": false,
-    "NextReset": "2022-07-31T02:00:00Z",
+    "NextReset": "2022-08-07T02:00:00Z",
     "Enabled": true,
     "ZoneChangeReminder": false,
     "LoginReminder": false,
@@ -130,7 +130,7 @@
   "MiniCactpot": {
     "TicketsRemaining": 0,
     "EnableClickableLink": false,
-    "NextReset": "2022-07-31T15:00:00Z",
+    "NextReset": "2022-08-01T15:00:00Z",
     "Enabled": true,
     "ZoneChangeReminder": false,
     "LoginReminder": false,
@@ -273,7 +273,7 @@
         "State": 0
       }
     ],
-    "NextReset": "2022-07-31T15:00:00Z",
+    "NextReset": "2022-08-01T15:00:00Z",
     "Enabled": false,
     "ZoneChangeReminder": false,
     "LoginReminder": false,
