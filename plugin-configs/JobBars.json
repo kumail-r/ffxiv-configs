@@ -11,7 +11,7 @@
   "GaugesHideOutOfCombat": false,
   "GaugesHideWeaponSheathed": false,
   "GaugeGCDTextVisible": true,
-  "GaugePositionType": 0,
+  "GaugePositionType": 1,
   "GaugePositionGlobal": {
     "$type": "System.Numerics.Vector2, System.Private.CoreLib",
     "X": 964.0,
@@ -20,7 +20,17 @@
   "GaugePerJobPosition": {
     "$type": "JobBars.Data.VectorValueConfig, JobBars",
     "Values": {
-      "$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[System.Numerics.Vector2, System.Private.CoreLib]], System.Private.CoreLib"
+      "$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[System.Numerics.Vector2, System.Private.CoreLib]], System.Private.CoreLib",
+      "SGE": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 964.0,
+        "Y": 835.0
+      },
+      "WAR": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 699.0,
+        "Y": 809.0
+      }
     }
   },
   "GaugeSplitPosition": {

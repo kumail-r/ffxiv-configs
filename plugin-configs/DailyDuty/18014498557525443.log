@@ -233,6 +233,16 @@
         "ModuleType": 2,
         "Time": "2022-07-31T15:05:43.1303984Z",
         "Message": "All Tasks Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-07-31T16:57:55.4763445Z",
+        "Message": "Normal Raids Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-07-31T16:57:55.4811956Z",
+        "Message": "All Tasks Completed"
       }
     ],
     "MiniCactpot": [
@@ -364,6 +374,26 @@
         "ModuleType": 14,
         "Time": "2022-07-27T04:40:33.215631Z",
         "Message": "Weekly Reset - Resetting"
+      },
+      {
+        "ModuleType": 14,
+        "Time": "2022-07-31T17:11:21.1791073Z",
+        "Message": "Highest Score Updated 74"
+      },
+      {
+        "ModuleType": 14,
+        "Time": "2022-07-31T17:12:51.0923135Z",
+        "Message": "Remaining Allowances Updated 3"
+      },
+      {
+        "ModuleType": 14,
+        "Time": "2022-07-31T17:13:00.3209863Z",
+        "Message": "Highest Score Updated 80"
+      },
+      {
+        "ModuleType": 14,
+        "Time": "2022-07-31T17:13:54.4141095Z",
+        "Message": "Remaining Allowances Updated 2"
       }
     ],
     "JumboCactpot": [

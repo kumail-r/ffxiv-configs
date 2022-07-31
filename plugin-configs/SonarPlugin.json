@@ -162,7 +162,7 @@
   "SoundVolume": 0.5,
   "Language": 0,
   "SortingMode": 1,
-  "DisableChatInDuty": true,
+  "DisableChatInDuty": false,
   "DisableSoundInDuty": true,
   "AllSRankSettings": false,
   "AdvancedHuntReportSettings": false,

@@ -8,9 +8,9 @@
   "OpenInBrowser": false,
   "ContextMenuButtonName": "Search FF Logs",
   "HideInCombat": false,
-  "IsUpdateDismissed": false,
+  "IsUpdateDismissed": true,
   "IsDefaultLayout": true,
-  "NbOfDecimalDigits": 1,
+  "NbOfDecimalDigits": 2,
   "Layout": [
     {
       "$type": "FFLogsViewer.LayoutEntry, FFLogsViewer",
@@ -273,8 +273,8 @@
   "Style": {
     "$type": "FFLogsViewer.Model.Style, FFLogsViewer",
     "MinMainWindowWidth": 390.0,
-    "MainWindowFlags": 1096,
-    "MainTableFlags": 25088,
+    "MainWindowFlags": 1097,
+    "MainTableFlags": 25152,
     "IsHeaderSeparatorDrawn": true,
     "IsSizeFixed": false,
     "IsCloseHotkeyRespected": true

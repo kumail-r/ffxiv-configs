@@ -48,7 +48,7 @@
       },
       {
         "Tracked": false,
-        "Completed": false,
+        "Completed": true,
         "Type": 17
       },
       {
@@ -159,8 +159,8 @@
     "ShowTodoTask": true
   },
   "FashionReport": {
-    "AllowancesRemaining": 4,
-    "HighestWeeklyScore": 0,
+    "AllowancesRemaining": 2,
+    "HighestWeeklyScore": 80,
     "Mode": 0,
     "EnableClickableLink": false,
     "NextReset": "2022-08-02T08:00:00Z",
