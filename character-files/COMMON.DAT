@@ -61,7 +61,7 @@ TitanSize	2
 IfritSize	2
 TimeMode	2
 Time12	0
-TimeEorzea	0
+TimeEorzea	1
 TimeLocal	1
 TimeServer	0
 ActiveLS_H	2686976
