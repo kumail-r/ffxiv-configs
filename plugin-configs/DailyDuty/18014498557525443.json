@@ -28,7 +28,7 @@
       },
       {
         "Tracked": false,
-        "Completed": true,
+        "Completed": false,
         "Type": 6
       },
       {
@@ -48,12 +48,12 @@
       },
       {
         "Tracked": false,
-        "Completed": true,
+        "Completed": false,
         "Type": 17
       },
       {
         "Tracked": false,
-        "Completed": true,
+        "Completed": false,
         "Type": 7
       },
       {
@@ -62,7 +62,7 @@
         "Type": 9
       }
     ],
-    "NextReset": "2022-08-02T15:00:00Z",
+    "NextReset": "2022-08-03T15:00:00Z",
     "Enabled": false,
     "ZoneChangeReminder": false,
     "LoginReminder": false,
@@ -128,9 +128,9 @@
     "ShowTodoTask": true
   },
   "MiniCactpot": {
-    "TicketsRemaining": 0,
+    "TicketsRemaining": 3,
     "EnableClickableLink": false,
-    "NextReset": "2022-08-02T15:00:00Z",
+    "NextReset": "2022-08-03T15:00:00Z",
     "Enabled": true,
     "ZoneChangeReminder": false,
     "LoginReminder": false,
@@ -151,7 +151,7 @@
     "DonatedThisWeek": 0,
     "WeeklyAllowance": 40000,
     "EnableClickableLink": false,
-    "NextReset": "2022-08-02T08:00:00Z",
+    "NextReset": "2022-08-09T08:00:00Z",
     "Enabled": false,
     "ZoneChangeReminder": false,
     "LoginReminder": false,
@@ -159,11 +159,11 @@
     "ShowTodoTask": true
   },
   "FashionReport": {
-    "AllowancesRemaining": 2,
-    "HighestWeeklyScore": 80,
+    "AllowancesRemaining": 4,
+    "HighestWeeklyScore": 0,
     "Mode": 0,
     "EnableClickableLink": false,
-    "NextReset": "2022-08-02T08:00:00Z",
+    "NextReset": "2022-08-09T08:00:00Z",
     "Enabled": false,
     "ZoneChangeReminder": false,
     "LoginReminder": false,
@@ -198,7 +198,7 @@
         "State": 0
       }
     ],
-    "NextReset": "2022-08-02T08:00:00Z",
+    "NextReset": "2022-08-09T08:00:00Z",
     "Enabled": false,
     "ZoneChangeReminder": false,
     "LoginReminder": false,
@@ -273,7 +273,7 @@
         "State": 0
       }
     ],
-    "NextReset": "2022-08-02T15:00:00Z",
+    "NextReset": "2022-08-03T15:00:00Z",
     "Enabled": false,
     "ZoneChangeReminder": false,
     "LoginReminder": false,

@@ -288,6 +288,41 @@
         "ModuleType": 2,
         "Time": "2022-08-01T17:12:20.2197582Z",
         "Message": "All Tasks Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-02T15:00:00.0755118Z",
+        "Message": "Trials Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-02T15:00:00.076443Z",
+        "Message": "All Tasks Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-02T15:00:00.0771472Z",
+        "Message": "Normal Raids Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-02T15:00:00.0774542Z",
+        "Message": "All Tasks Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-02T15:00:00.0781557Z",
+        "Message": "Frontline Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-02T15:00:00.0786171Z",
+        "Message": "All Tasks Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-02T15:00:00.2617633Z",
+        "Message": "Daily Reset - Resetting"
       }
     ],
     "MiniCactpot": [
@@ -420,6 +455,11 @@
         "ModuleType": 11,
         "Time": "2022-08-01T16:09:53.6372738Z",
         "Message": "Mini Cactpot Ticket Purchased"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-08-02T15:00:00.2625576Z",
+        "Message": "Daily Reset - Resetting"
       }
     ],
     "DomanEnclave": [
@@ -432,6 +472,11 @@
         "ModuleType": 13,
         "Time": "2022-07-27T22:02:57.8848316Z",
         "Message": "Weekly Allowance Updated - 40000"
+      },
+      {
+        "ModuleType": 13,
+        "Time": "2022-08-02T14:23:00.024747Z",
+        "Message": "Weekly Reset - Resetting"
       }
     ],
     "FashionReport": [
@@ -459,6 +504,11 @@
         "ModuleType": 14,
         "Time": "2022-07-31T17:13:54.4141095Z",
         "Message": "Remaining Allowances Updated 2"
+      },
+      {
+        "ModuleType": 14,
+        "Time": "2022-08-02T14:23:00.0445135Z",
+        "Message": "Weekly Reset - Resetting"
       }
     ],
     "JumboCactpot": [
@@ -668,6 +718,46 @@
         "ModuleType": 16,
         "Time": "2022-08-01T15:56:55.8146333Z",
         "Message": "ShadowbringersLevelThree - Mark Bill Obtained"
+      },
+      {
+        "ModuleType": 16,
+        "Time": "2022-08-02T14:23:00.0454221Z",
+        "Message": "Weekly Reset - Resetting"
+      },
+      {
+        "ModuleType": 16,
+        "Time": "2022-08-02T14:23:00.1124032Z",
+        "Message": "HeavenswardElite - Mark Bill Obtained"
+      },
+      {
+        "ModuleType": 16,
+        "Time": "2022-08-02T14:23:00.1132914Z",
+        "Message": "StormbloodElite - Mark Bill Obtained"
+      },
+      {
+        "ModuleType": 16,
+        "Time": "2022-08-02T14:23:00.1138287Z",
+        "Message": "ShadowbringersElite - Mark Bill Obtained"
+      },
+      {
+        "ModuleType": 16,
+        "Time": "2022-08-02T15:00:00.3575892Z",
+        "Message": "RealmRebornLevelOne - Mark Bill Obtained"
+      },
+      {
+        "ModuleType": 16,
+        "Time": "2022-08-02T15:00:00.358342Z",
+        "Message": "ShadowbringersLevelOne - Mark Bill Obtained"
+      },
+      {
+        "ModuleType": 16,
+        "Time": "2022-08-02T15:00:00.3589782Z",
+        "Message": "ShadowbringersLevelTwo - Mark Bill Obtained"
+      },
+      {
+        "ModuleType": 16,
+        "Time": "2022-08-02T15:00:00.359524Z",
+        "Message": "ShadowbringersLevelThree - Mark Bill Obtained"
       }
     ],
     "HuntMarksDaily": [
@@ -704,6 +794,11 @@
       {
         "ModuleType": 19,
         "Time": "2022-08-01T15:56:55.5986321Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 19,
+        "Time": "2022-08-02T15:00:00.2633588Z",
         "Message": "Daily Reset - Resetting"
       }
     ],
