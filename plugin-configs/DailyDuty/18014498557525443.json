@@ -23,12 +23,12 @@
       },
       {
         "Tracked": false,
-        "Completed": false,
+        "Completed": true,
         "Type": 1
       },
       {
         "Tracked": false,
-        "Completed": false,
+        "Completed": true,
         "Type": 6
       },
       {
@@ -48,7 +48,7 @@
       },
       {
         "Tracked": false,
-        "Completed": false,
+        "Completed": true,
         "Type": 17
       },
       {
@@ -128,7 +128,7 @@
     "ShowTodoTask": true
   },
   "MiniCactpot": {
-    "TicketsRemaining": 3,
+    "TicketsRemaining": 0,
     "EnableClickableLink": false,
     "NextReset": "2022-08-03T15:00:00Z",
     "Enabled": true,

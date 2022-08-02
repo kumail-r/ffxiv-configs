@@ -323,6 +323,36 @@
         "ModuleType": 2,
         "Time": "2022-08-02T15:00:00.2617633Z",
         "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-02T15:57:01.1190265Z",
+        "Message": "Leveling Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-02T15:57:01.1231741Z",
+        "Message": "All Tasks Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-02T16:11:17.6332737Z",
+        "Message": "Trials Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-02T16:11:17.6350682Z",
+        "Message": "All Tasks Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-02T16:17:56.8106395Z",
+        "Message": "Normal Raids Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-02T16:17:56.812832Z",
+        "Message": "All Tasks Completed"
       }
     ],
     "MiniCactpot": [
@@ -460,6 +490,31 @@
         "ModuleType": 11,
         "Time": "2022-08-02T15:00:00.2625576Z",
         "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-08-02T16:27:46.4049225Z",
+        "Message": "ReSync - Tickets Remaining 0"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-08-02T16:27:49.3208609Z",
+        "Message": "ReSync - Tickets Remaining 3"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-08-02T16:27:50.5206868Z",
+        "Message": "Mini Cactpot Ticket Purchased"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-08-02T16:27:57.2352912Z",
+        "Message": "Mini Cactpot Ticket Purchased"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-08-02T16:28:05.0954926Z",
+        "Message": "Mini Cactpot Ticket Purchased"
       }
     ],
     "DomanEnclave": [
