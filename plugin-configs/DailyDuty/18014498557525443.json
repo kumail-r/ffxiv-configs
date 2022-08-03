@@ -23,7 +23,7 @@
       },
       {
         "Tracked": false,
-        "Completed": true,
+        "Completed": false,
         "Type": 1
       },
       {
@@ -53,7 +53,7 @@
       },
       {
         "Tracked": false,
-        "Completed": true,
+        "Completed": false,
         "Type": 7
       },
       {
@@ -62,7 +62,7 @@
         "Type": 9
       }
     ],
-    "NextReset": "2022-08-03T15:00:00Z",
+    "NextReset": "2022-08-04T15:00:00Z",
     "Enabled": false,
     "ZoneChangeReminder": false,
     "LoginReminder": false,
@@ -130,7 +130,7 @@
   "MiniCactpot": {
     "TicketsRemaining": 0,
     "EnableClickableLink": false,
-    "NextReset": "2022-08-03T15:00:00Z",
+    "NextReset": "2022-08-04T15:00:00Z",
     "Enabled": true,
     "ZoneChangeReminder": false,
     "LoginReminder": false,
@@ -273,7 +273,7 @@
         "State": 0
       }
     ],
-    "NextReset": "2022-08-03T15:00:00Z",
+    "NextReset": "2022-08-04T15:00:00Z",
     "Enabled": false,
     "ZoneChangeReminder": false,
     "LoginReminder": false,

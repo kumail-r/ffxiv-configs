@@ -56,6 +56,6 @@
   "ContentsFinderConfirmEnabled": false,
   "ContentsFinderOneTimeConfirmEnabled": false,
   "InclusionShopRememberEnabled": true,
-  "InclusionShopRememberCategory": 7,
-  "InclusionShopRememberSubcategory": 1
+  "InclusionShopRememberCategory": 1,
+  "InclusionShopRememberSubcategory": 3
 }
