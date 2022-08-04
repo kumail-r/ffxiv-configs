@@ -408,6 +408,41 @@
         "ModuleType": 2,
         "Time": "2022-08-03T23:36:33.9159633Z",
         "Message": "All Tasks Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-04T16:34:49.6953186Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-04T17:04:52.1418867Z",
+        "Message": "Leveling Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-04T17:04:52.1424344Z",
+        "Message": "All Tasks Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-04T17:24:05.0919031Z",
+        "Message": "Frontline Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-04T17:24:05.0927337Z",
+        "Message": "All Tasks Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-04T17:37:49.7822537Z",
+        "Message": "Normal Raids Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-04T17:37:49.7828262Z",
+        "Message": "All Tasks Completed"
       }
     ],
     "MiniCactpot": [
@@ -589,6 +624,26 @@
       {
         "ModuleType": 11,
         "Time": "2022-08-03T17:26:51.2595748Z",
+        "Message": "Mini Cactpot Ticket Purchased"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-08-04T16:34:49.7113372Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-08-04T17:33:24.5754853Z",
+        "Message": "Mini Cactpot Ticket Purchased"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-08-04T17:33:31.4372826Z",
+        "Message": "Mini Cactpot Ticket Purchased"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-08-04T17:33:38.3309395Z",
         "Message": "Mini Cactpot Ticket Purchased"
       }
     ],
@@ -908,6 +963,26 @@
         "ModuleType": 16,
         "Time": "2022-08-03T17:19:34.9375749Z",
         "Message": "ShadowbringersLevelThree - Mark Bill Obtained"
+      },
+      {
+        "ModuleType": 16,
+        "Time": "2022-08-04T16:34:49.9370532Z",
+        "Message": "RealmRebornLevelOne - Mark Bill Obtained"
+      },
+      {
+        "ModuleType": 16,
+        "Time": "2022-08-04T16:34:49.9402085Z",
+        "Message": "ShadowbringersLevelOne - Mark Bill Obtained"
+      },
+      {
+        "ModuleType": 16,
+        "Time": "2022-08-04T16:34:49.940815Z",
+        "Message": "ShadowbringersLevelTwo - Mark Bill Obtained"
+      },
+      {
+        "ModuleType": 16,
+        "Time": "2022-08-04T16:34:49.9413448Z",
+        "Message": "ShadowbringersLevelThree - Mark Bill Obtained"
       }
     ],
     "HuntMarksDaily": [
@@ -954,6 +1029,11 @@
       {
         "ModuleType": 19,
         "Time": "2022-08-03T17:19:34.8360645Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 19,
+        "Time": "2022-08-04T16:34:49.7124502Z",
         "Message": "Daily Reset - Resetting"
       }
     ],
