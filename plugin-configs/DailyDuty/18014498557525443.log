@@ -388,6 +388,26 @@
         "ModuleType": 2,
         "Time": "2022-08-03T18:01:15.0136329Z",
         "Message": "All Tasks Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-03T23:10:44.9009713Z",
+        "Message": "Frontline Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-03T23:10:44.9058571Z",
+        "Message": "All Tasks Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-03T23:36:33.915412Z",
+        "Message": "Leveling Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-03T23:36:33.9159633Z",
+        "Message": "All Tasks Completed"
       }
     ],
     "MiniCactpot": [
@@ -957,6 +977,11 @@
         "ModuleType": 8,
         "Time": "2022-07-30T04:18:14.0611765Z",
         "Message": "ReSyncing Time - LastGathered: 7/29/2022 6:18:00 AM"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-08-03T23:38:49.3409963Z",
+        "Message": "ReSyncing Time - LastGathered: 8/3/2022 1:38:00 AM"
       }
     ],
     "WondrousTails": [
