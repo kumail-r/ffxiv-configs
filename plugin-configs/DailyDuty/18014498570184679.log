@@ -1,0 +1,57 @@
+{
+  "CharacterName": "Wife's Boyfriend",
+  "LocalContentID": 18014498570184679,
+  "World": "Zalera",
+  "Messages": {
+    "DutyRoulette": [
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-04T12:35:48.6997407Z",
+        "Message": "Daily Reset - Resetting"
+      }
+    ],
+    "MiniCactpot": [
+      {
+        "ModuleType": 11,
+        "Time": "2022-08-04T12:35:48.7013214Z",
+        "Message": "Daily Reset - Resetting"
+      }
+    ],
+    "DomanEnclave": [
+      {
+        "ModuleType": 13,
+        "Time": "2022-08-04T12:35:48.7021084Z",
+        "Message": "Weekly Reset - Resetting"
+      }
+    ],
+    "FashionReport": [
+      {
+        "ModuleType": 14,
+        "Time": "2022-08-04T12:35:48.7026525Z",
+        "Message": "Weekly Reset - Resetting"
+      }
+    ],
+    "JumboCactpot": [
+      {
+        "ModuleType": 15,
+        "Time": "2022-08-04T12:35:48.7057713Z",
+        "Message": "Weekly Reset - Resetting"
+      }
+    ],
+    "HuntMarksWeekly": [
+      {
+        "ModuleType": 16,
+        "Time": "2022-08-04T12:35:48.7065102Z",
+        "Message": "Weekly Reset - Resetting"
+      }
+    ],
+    "HuntMarksDaily": [
+      {
+        "ModuleType": 19,
+        "Time": "2022-08-04T12:35:48.7071482Z",
+        "Message": "Daily Reset - Resetting"
+      }
+    ]
+  },
+  "Version": 1
+}

@@ -1,0 +1,280 @@
+{
+  "CharacterName": "Wife's Boyfriend",
+  "LocalContentID": 18014498570184679,
+  "World": "Zalera",
+  "DutyRoulette": {
+    "EnableClickableLink": false,
+    "HideWhenCapped": false,
+    "TrackedRoulettes": [
+      {
+        "Tracked": false,
+        "Completed": false,
+        "Type": 5
+      },
+      {
+        "Tracked": false,
+        "Completed": false,
+        "Type": 8
+      },
+      {
+        "Tracked": false,
+        "Completed": false,
+        "Type": 2
+      },
+      {
+        "Tracked": false,
+        "Completed": false,
+        "Type": 1
+      },
+      {
+        "Tracked": false,
+        "Completed": false,
+        "Type": 6
+      },
+      {
+        "Tracked": false,
+        "Completed": false,
+        "Type": 3
+      },
+      {
+        "Tracked": false,
+        "Completed": false,
+        "Type": 4
+      },
+      {
+        "Tracked": false,
+        "Completed": false,
+        "Type": 15
+      },
+      {
+        "Tracked": false,
+        "Completed": false,
+        "Type": 17
+      },
+      {
+        "Tracked": false,
+        "Completed": false,
+        "Type": 7
+      },
+      {
+        "Tracked": false,
+        "Completed": false,
+        "Type": 9
+      }
+    ],
+    "NextReset": "2022-08-04T15:00:00Z",
+    "Enabled": false,
+    "ZoneChangeReminder": false,
+    "LoginReminder": false,
+    "ExpandedDisplay": false,
+    "ShowTodoTask": true
+  },
+  "WondrousTails": {
+    "InstanceNotifications": false,
+    "EnableOpenBookLink": false,
+    "StickerAvailableNotification": false,
+    "UnclaimedBookWarning": true,
+    "DeadlineEarlyWarning": false,
+    "EnableTeleportLink": false,
+    "EarlyWarningDays": 3,
+    "NextReset": "0001-01-01T00:00:00",
+    "Enabled": false,
+    "ZoneChangeReminder": false,
+    "LoginReminder": false,
+    "ExpandedDisplay": false,
+    "ShowTodoTask": true
+  },
+  "JumboCactpot": {
+    "Tickets": [],
+    "EnableClickableLink": false,
+    "NextReset": "2022-08-07T02:00:00Z",
+    "Enabled": false,
+    "ZoneChangeReminder": false,
+    "LoginReminder": false,
+    "ExpandedDisplay": false,
+    "ShowTodoTask": true
+  },
+  "TreasureMap": {
+    "LastMapGathered": "0001-01-01T00:00:00",
+    "NextReset": "0001-01-01T00:00:00",
+    "Enabled": false,
+    "ZoneChangeReminder": false,
+    "LoginReminder": false,
+    "ExpandedDisplay": false,
+    "ShowTodoTask": true
+  },
+  "BeastTribe": {
+    "NotificationThreshold": 12,
+    "ComparisonMode": 0,
+    "NextReset": "0001-01-01T00:00:00",
+    "Enabled": false,
+    "ZoneChangeReminder": false,
+    "LoginReminder": false,
+    "ExpandedDisplay": false,
+    "ShowTodoTask": true
+  },
+  "Levequest": {
+    "NotificationThreshold": 95,
+    "ComparisonMode": 0,
+    "NextReset": "0001-01-01T00:00:00",
+    "Enabled": false,
+    "ZoneChangeReminder": false,
+    "LoginReminder": false,
+    "ExpandedDisplay": false,
+    "ShowTodoTask": true
+  },
+  "MiniCactpot": {
+    "TicketsRemaining": 3,
+    "EnableClickableLink": false,
+    "NextReset": "2022-08-04T15:00:00Z",
+    "Enabled": false,
+    "ZoneChangeReminder": false,
+    "LoginReminder": false,
+    "ExpandedDisplay": false,
+    "ShowTodoTask": true
+  },
+  "CustomDelivery": {
+    "NotificationThreshold": 12,
+    "ComparisonMode": 0,
+    "NextReset": "0001-01-01T00:00:00",
+    "Enabled": false,
+    "ZoneChangeReminder": false,
+    "LoginReminder": false,
+    "ExpandedDisplay": false,
+    "ShowTodoTask": true
+  },
+  "DomanEnclave": {
+    "DonatedThisWeek": 0,
+    "WeeklyAllowance": 0,
+    "EnableClickableLink": false,
+    "NextReset": "2022-08-09T08:00:00Z",
+    "Enabled": false,
+    "ZoneChangeReminder": false,
+    "LoginReminder": false,
+    "ExpandedDisplay": false,
+    "ShowTodoTask": true
+  },
+  "FashionReport": {
+    "AllowancesRemaining": 4,
+    "HighestWeeklyScore": 0,
+    "Mode": 0,
+    "EnableClickableLink": false,
+    "NextReset": "2022-08-09T08:00:00Z",
+    "Enabled": false,
+    "ZoneChangeReminder": false,
+    "LoginReminder": false,
+    "ExpandedDisplay": false,
+    "ShowTodoTask": true
+  },
+  "WeeklyHuntMarks": {
+    "TrackedHunts": [
+      {
+        "Tracked": false,
+        "Type": 4,
+        "State": 0
+      },
+      {
+        "Tracked": false,
+        "Type": 5,
+        "State": 0
+      },
+      {
+        "Tracked": false,
+        "Type": 9,
+        "State": 0
+      },
+      {
+        "Tracked": false,
+        "Type": 13,
+        "State": 0
+      },
+      {
+        "Tracked": false,
+        "Type": 17,
+        "State": 0
+      }
+    ],
+    "NextReset": "2022-08-09T08:00:00Z",
+    "Enabled": false,
+    "ZoneChangeReminder": false,
+    "LoginReminder": false,
+    "ExpandedDisplay": false,
+    "ShowTodoTask": true
+  },
+  "DailyHuntMarks": {
+    "TrackedHunts": [
+      {
+        "Tracked": false,
+        "Type": 0,
+        "State": 0
+      },
+      {
+        "Tracked": false,
+        "Type": 1,
+        "State": 0
+      },
+      {
+        "Tracked": false,
+        "Type": 2,
+        "State": 0
+      },
+      {
+        "Tracked": false,
+        "Type": 3,
+        "State": 0
+      },
+      {
+        "Tracked": false,
+        "Type": 6,
+        "State": 0
+      },
+      {
+        "Tracked": false,
+        "Type": 7,
+        "State": 0
+      },
+      {
+        "Tracked": false,
+        "Type": 8,
+        "State": 0
+      },
+      {
+        "Tracked": false,
+        "Type": 10,
+        "State": 0
+      },
+      {
+        "Tracked": false,
+        "Type": 11,
+        "State": 0
+      },
+      {
+        "Tracked": false,
+        "Type": 12,
+        "State": 0
+      },
+      {
+        "Tracked": false,
+        "Type": 14,
+        "State": 0
+      },
+      {
+        "Tracked": false,
+        "Type": 15,
+        "State": 0
+      },
+      {
+        "Tracked": false,
+        "Type": 16,
+        "State": 0
+      }
+    ],
+    "NextReset": "2022-08-04T15:00:00Z",
+    "Enabled": false,
+    "ZoneChangeReminder": false,
+    "LoginReminder": false,
+    "ExpandedDisplay": false,
+    "ShowTodoTask": true
+  },
+  "Version": 1
+}
