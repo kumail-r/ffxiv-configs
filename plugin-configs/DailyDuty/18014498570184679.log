@@ -8,12 +8,22 @@
         "ModuleType": 2,
         "Time": "2022-08-04T12:35:48.6997407Z",
         "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-05T02:33:02.5489577Z",
+        "Message": "Daily Reset - Resetting"
       }
     ],
     "MiniCactpot": [
       {
         "ModuleType": 11,
         "Time": "2022-08-04T12:35:48.7013214Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-08-05T02:33:02.5639773Z",
         "Message": "Daily Reset - Resetting"
       }
     ],
@@ -49,6 +59,11 @@
       {
         "ModuleType": 19,
         "Time": "2022-08-04T12:35:48.7071482Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 19,
+        "Time": "2022-08-05T02:33:02.5649015Z",
         "Message": "Daily Reset - Resetting"
       }
     ]

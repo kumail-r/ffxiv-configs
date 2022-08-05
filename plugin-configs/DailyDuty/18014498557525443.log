@@ -443,6 +443,16 @@
         "ModuleType": 2,
         "Time": "2022-08-04T17:37:49.7828262Z",
         "Message": "All Tasks Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-05T03:13:36.1590576Z",
+        "Message": "Trials Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-05T03:13:36.1601245Z",
+        "Message": "All Tasks Completed"
       }
     ],
     "MiniCactpot": [
