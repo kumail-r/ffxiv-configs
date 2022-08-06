@@ -6,26 +6,6 @@
     "DutyRoulette": [
       {
         "ModuleType": 2,
-        "Time": "2022-07-27T04:40:33.2114618Z",
-        "Message": "Daily Reset - Resetting"
-      },
-      {
-        "ModuleType": 2,
-        "Time": "2022-07-27T04:40:33.2285759Z",
-        "Message": "Normal Raids Completed"
-      },
-      {
-        "ModuleType": 2,
-        "Time": "2022-07-27T04:40:33.2293452Z",
-        "Message": "All Tasks Completed"
-      },
-      {
-        "ModuleType": 2,
-        "Time": "2022-07-27T13:49:23.4962365Z",
-        "Message": "Trials Completed"
-      },
-      {
-        "ModuleType": 2,
         "Time": "2022-07-27T13:49:23.5015765Z",
         "Message": "All Tasks Completed"
       },
@@ -488,6 +468,41 @@
         "ModuleType": 2,
         "Time": "2022-08-06T05:44:09.0202427Z",
         "Message": "All Tasks Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-06T17:13:01.6314758Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-06T17:41:41.1761033Z",
+        "Message": "Leveling Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-06T17:41:41.1766448Z",
+        "Message": "All Tasks Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-06T17:50:19.1560736Z",
+        "Message": "Normal Raids Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-06T17:50:19.1565894Z",
+        "Message": "All Tasks Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-06T17:56:48.1921318Z",
+        "Message": "Trials Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-06T17:56:48.192823Z",
+        "Message": "All Tasks Completed"
       }
     ],
     "MiniCactpot": [
@@ -719,6 +734,26 @@
       {
         "ModuleType": 11,
         "Time": "2022-08-06T06:04:14.1902771Z",
+        "Message": "Mini Cactpot Ticket Purchased"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-08-06T17:13:01.6449834Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-08-06T17:45:05.3803199Z",
+        "Message": "Mini Cactpot Ticket Purchased"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-08-06T17:45:13.2132457Z",
+        "Message": "Mini Cactpot Ticket Purchased"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-08-06T17:45:19.6811329Z",
         "Message": "Mini Cactpot Ticket Purchased"
       }
     ],
@@ -1078,6 +1113,26 @@
         "ModuleType": 16,
         "Time": "2022-08-06T04:55:23.0078373Z",
         "Message": "ShadowbringersLevelThree - Mark Bill Obtained"
+      },
+      {
+        "ModuleType": 16,
+        "Time": "2022-08-06T17:13:01.8804569Z",
+        "Message": "RealmRebornLevelOne - Mark Bill Obtained"
+      },
+      {
+        "ModuleType": 16,
+        "Time": "2022-08-06T17:13:01.8814098Z",
+        "Message": "ShadowbringersLevelOne - Mark Bill Obtained"
+      },
+      {
+        "ModuleType": 16,
+        "Time": "2022-08-06T17:13:01.8821439Z",
+        "Message": "ShadowbringersLevelTwo - Mark Bill Obtained"
+      },
+      {
+        "ModuleType": 16,
+        "Time": "2022-08-06T17:13:01.882713Z",
+        "Message": "ShadowbringersLevelThree - Mark Bill Obtained"
       }
     ],
     "HuntMarksDaily": [
@@ -1134,6 +1189,11 @@
       {
         "ModuleType": 19,
         "Time": "2022-08-06T04:55:22.7874222Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 19,
+        "Time": "2022-08-06T17:13:01.6462436Z",
         "Message": "Daily Reset - Resetting"
       }
     ],
