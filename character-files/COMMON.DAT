@@ -435,7 +435,7 @@ PartyListSortTypeOther	0
 RatioHpDisp	1
 BuffDispType	0
 ContentsFinderListSortType	0
-ContentsFinderSupplyEnable	1
+ContentsFinderSupplyEnable	0
 EnemyListCastbarEnable	1
 AchievementAppealLoginDisp	0
 ContentsFinderUseLangTypeJA	0
