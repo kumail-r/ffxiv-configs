@@ -12,7 +12,7 @@
     "$type": "DailyDuty.Data.Components.TimersSettings, DailyDuty",
     "Daily": {
       "$type": "DailyDuty.Data.Components.TimerSettings, DailyDuty",
-      "Enabled": false,
+      "Enabled": true,
       "TimerStyle": {
         "$type": "DailyDuty.Data.Components.TimerStyle, DailyDuty",
         "Options": {
