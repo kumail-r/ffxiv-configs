@@ -8,7 +8,7 @@
     "TrackedRoulettes": [
       {
         "Tracked": false,
-        "Completed": false,
+        "Completed": true,
         "Type": 5
       },
       {

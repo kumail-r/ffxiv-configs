@@ -6,16 +6,6 @@
     "DutyRoulette": [
       {
         "ModuleType": 2,
-        "Time": "2022-07-28T19:25:32.1596428Z",
-        "Message": "Frontline Completed"
-      },
-      {
-        "ModuleType": 2,
-        "Time": "2022-07-28T19:25:32.160026Z",
-        "Message": "All Tasks Completed"
-      },
-      {
-        "ModuleType": 2,
         "Time": "2022-07-29T03:41:00.9319024Z",
         "Message": "Expert Completed"
       },
@@ -502,6 +492,16 @@
       {
         "ModuleType": 2,
         "Time": "2022-08-07T18:52:10.1875721Z",
+        "Message": "All Tasks Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-07T22:57:04.975387Z",
+        "Message": "Expert Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-07T22:57:04.9804292Z",
         "Message": "All Tasks Completed"
       }
     ],
