@@ -6,26 +6,6 @@
     "DutyRoulette": [
       {
         "ModuleType": 2,
-        "Time": "2022-07-27T13:49:23.5015765Z",
-        "Message": "All Tasks Completed"
-      },
-      {
-        "ModuleType": 2,
-        "Time": "2022-07-27T15:00:00.0846092Z",
-        "Message": "Daily Reset - Resetting"
-      },
-      {
-        "ModuleType": 2,
-        "Time": "2022-07-27T16:30:01.3767377Z",
-        "Message": "Expert Completed"
-      },
-      {
-        "ModuleType": 2,
-        "Time": "2022-07-27T16:30:01.3821074Z",
-        "Message": "All Tasks Completed"
-      },
-      {
-        "ModuleType": 2,
         "Time": "2022-07-27T17:07:21.7533122Z",
         "Message": "Trials Completed"
       },
@@ -503,6 +483,26 @@
         "ModuleType": 2,
         "Time": "2022-08-06T17:56:48.192823Z",
         "Message": "All Tasks Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-07T06:36:40.6034887Z",
+        "Message": "Alliance Raids Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-07T06:36:40.604455Z",
+        "Message": "All Tasks Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-07T07:03:07.5114214Z",
+        "Message": "Frontline Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-07T07:03:07.5120843Z",
+        "Message": "All Tasks Completed"
       }
     ],
     "MiniCactpot": [
@@ -851,6 +851,16 @@
         "ModuleType": 15,
         "Time": "2022-07-31T15:10:54.8830023Z",
         "Message": "Ticket Purchased - 2435"
+      },
+      {
+        "ModuleType": 15,
+        "Time": "2022-08-07T06:36:40.5852577Z",
+        "Message": "Weekly Reset - Resetting"
+      },
+      {
+        "ModuleType": 15,
+        "Time": "2022-08-07T07:16:27.6275774Z",
+        "Message": "ReSyncing Tickets"
       }
     ],
     "HuntMarksWeekly": [
