@@ -13,6 +13,11 @@
         "ModuleType": 2,
         "Time": "2022-08-05T02:33:02.5489577Z",
         "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-08T05:42:09.8215262Z",
+        "Message": "Daily Reset - Resetting"
       }
     ],
     "MiniCactpot": [
@@ -24,6 +29,11 @@
       {
         "ModuleType": 11,
         "Time": "2022-08-05T02:33:02.5639773Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-08-08T05:42:09.8377236Z",
         "Message": "Daily Reset - Resetting"
       }
     ],
@@ -46,6 +56,11 @@
         "ModuleType": 15,
         "Time": "2022-08-04T12:35:48.7057713Z",
         "Message": "Weekly Reset - Resetting"
+      },
+      {
+        "ModuleType": 15,
+        "Time": "2022-08-08T05:42:09.8436992Z",
+        "Message": "Weekly Reset - Resetting"
       }
     ],
     "HuntMarksWeekly": [
@@ -64,6 +79,11 @@
       {
         "ModuleType": 19,
         "Time": "2022-08-05T02:33:02.5649015Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 19,
+        "Time": "2022-08-08T05:42:09.8448345Z",
         "Message": "Daily Reset - Resetting"
       }
     ]

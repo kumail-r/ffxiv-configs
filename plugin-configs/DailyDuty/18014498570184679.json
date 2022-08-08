@@ -62,7 +62,7 @@
         "Type": 9
       }
     ],
-    "NextReset": "2022-08-05T15:00:00Z",
+    "NextReset": "2022-08-08T15:00:00Z",
     "Enabled": false,
     "ZoneChangeReminder": false,
     "LoginReminder": false,
@@ -87,7 +87,7 @@
   "JumboCactpot": {
     "Tickets": [],
     "EnableClickableLink": false,
-    "NextReset": "2022-08-07T02:00:00Z",
+    "NextReset": "2022-08-14T02:00:00Z",
     "Enabled": false,
     "ZoneChangeReminder": false,
     "LoginReminder": false,
@@ -126,7 +126,7 @@
   "MiniCactpot": {
     "TicketsRemaining": 3,
     "EnableClickableLink": false,
-    "NextReset": "2022-08-05T15:00:00Z",
+    "NextReset": "2022-08-08T15:00:00Z",
     "Enabled": false,
     "ZoneChangeReminder": false,
     "LoginReminder": false,
@@ -269,7 +269,7 @@
         "State": 0
       }
     ],
-    "NextReset": "2022-08-05T15:00:00Z",
+    "NextReset": "2022-08-08T15:00:00Z",
     "Enabled": false,
     "ZoneChangeReminder": false,
     "LoginReminder": false,
