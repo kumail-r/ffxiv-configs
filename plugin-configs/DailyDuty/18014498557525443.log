@@ -6,16 +6,6 @@
     "DutyRoulette": [
       {
         "ModuleType": 2,
-        "Time": "2022-07-30T18:23:58.0417228Z",
-        "Message": "Daily Reset - Resetting"
-      },
-      {
-        "ModuleType": 2,
-        "Time": "2022-07-30T18:34:28.5686345Z",
-        "Message": "Trials Completed"
-      },
-      {
-        "ModuleType": 2,
         "Time": "2022-07-30T18:34:28.5692749Z",
         "Message": "All Tasks Completed"
       },
@@ -503,6 +493,16 @@
         "ModuleType": 2,
         "Time": "2022-08-08T18:08:12.5353596Z",
         "Message": "All Tasks Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-09T13:52:51.7527228Z",
+        "Message": "Expert Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-09T13:52:51.7544071Z",
+        "Message": "All Tasks Completed"
       }
     ],
     "MiniCactpot": [
@@ -812,6 +812,11 @@
         "ModuleType": 13,
         "Time": "2022-08-02T14:23:00.024747Z",
         "Message": "Weekly Reset - Resetting"
+      },
+      {
+        "ModuleType": 13,
+        "Time": "2022-08-09T13:27:56.6673136Z",
+        "Message": "Weekly Reset - Resetting"
       }
     ],
     "FashionReport": [
@@ -843,6 +848,11 @@
       {
         "ModuleType": 14,
         "Time": "2022-08-02T14:23:00.0445135Z",
+        "Message": "Weekly Reset - Resetting"
+      },
+      {
+        "ModuleType": 14,
+        "Time": "2022-08-09T13:27:56.6829564Z",
         "Message": "Weekly Reset - Resetting"
       }
     ],
@@ -1243,6 +1253,26 @@
         "ModuleType": 16,
         "Time": "2022-08-08T17:28:07.9802704Z",
         "Message": "ShadowbringersLevelThree - Mark Bill Obtained"
+      },
+      {
+        "ModuleType": 16,
+        "Time": "2022-08-09T13:27:56.6840135Z",
+        "Message": "Weekly Reset - Resetting"
+      },
+      {
+        "ModuleType": 16,
+        "Time": "2022-08-09T13:27:56.8498863Z",
+        "Message": "HeavenswardElite - Mark Bill Obtained"
+      },
+      {
+        "ModuleType": 16,
+        "Time": "2022-08-09T13:27:56.850831Z",
+        "Message": "StormbloodElite - Mark Bill Obtained"
+      },
+      {
+        "ModuleType": 16,
+        "Time": "2022-08-09T13:27:56.8547311Z",
+        "Message": "ShadowbringersElite - Mark Bill Obtained"
       }
     ],
     "HuntMarksDaily": [
