@@ -8,7 +8,7 @@
     "TrackedRoulettes": [
       {
         "Tracked": false,
-        "Completed": true,
+        "Completed": false,
         "Type": 5
       },
       {
@@ -53,7 +53,7 @@
       },
       {
         "Tracked": false,
-        "Completed": true,
+        "Completed": false,
         "Type": 7
       },
       {
@@ -62,7 +62,7 @@
         "Type": 9
       }
     ],
-    "NextReset": "2022-08-09T15:00:00Z",
+    "NextReset": "2022-08-10T15:00:00Z",
     "Enabled": false,
     "ZoneChangeReminder": false,
     "LoginReminder": false,
@@ -128,9 +128,9 @@
     "ShowTodoTask": true
   },
   "MiniCactpot": {
-    "TicketsRemaining": 0,
+    "TicketsRemaining": 3,
     "EnableClickableLink": false,
-    "NextReset": "2022-08-09T15:00:00Z",
+    "NextReset": "2022-08-10T15:00:00Z",
     "Enabled": true,
     "ZoneChangeReminder": false,
     "LoginReminder": false,
@@ -273,7 +273,7 @@
         "State": 0
       }
     ],
-    "NextReset": "2022-08-09T15:00:00Z",
+    "NextReset": "2022-08-10T15:00:00Z",
     "Enabled": false,
     "ZoneChangeReminder": false,
     "LoginReminder": false,
