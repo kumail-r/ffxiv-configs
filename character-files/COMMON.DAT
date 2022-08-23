@@ -69,6 +69,7 @@ ActiveLS_L	113664
 HotbarLock	1
 HotbarDispRecastTime	1
 HotbarCrossContentsActionEnableInput	1
+HotbarDispRecastTimeDispType	0
 ExHotbarChangeHotbar1	0
 HotbarCommon01	0
 HotbarCommon02	0
