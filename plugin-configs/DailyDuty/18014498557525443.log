@@ -6,11 +6,6 @@
     "DutyRoulette": [
       {
         "ModuleType": 2,
-        "Time": "2022-07-30T22:22:44.0441863Z",
-        "Message": "Expert Completed"
-      },
-      {
-        "ModuleType": 2,
         "Time": "2022-07-30T22:22:44.048738Z",
         "Message": "All Tasks Completed"
       },
@@ -503,6 +498,11 @@
         "ModuleType": 2,
         "Time": "2022-08-10T14:31:14.3143573Z",
         "Message": "All Tasks Completed"
+      },
+      {
+        "ModuleType": 2,
+        "Time": "2022-08-23T01:13:19.9206122Z",
+        "Message": "Daily Reset - Resetting"
       }
     ],
     "MiniCactpot": [
@@ -800,6 +800,26 @@
         "ModuleType": 11,
         "Time": "2022-08-10T14:08:46.6411612Z",
         "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-08-23T01:13:19.9359076Z",
+        "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-08-23T01:19:20.1916783Z",
+        "Message": "Mini Cactpot Ticket Purchased"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-08-23T01:19:26.9790175Z",
+        "Message": "Mini Cactpot Ticket Purchased"
+      },
+      {
+        "ModuleType": 11,
+        "Time": "2022-08-23T01:19:33.717593Z",
+        "Message": "Mini Cactpot Ticket Purchased"
       }
     ],
     "DomanEnclave": [
@@ -821,6 +841,11 @@
       {
         "ModuleType": 13,
         "Time": "2022-08-09T13:27:56.6673136Z",
+        "Message": "Weekly Reset - Resetting"
+      },
+      {
+        "ModuleType": 13,
+        "Time": "2022-08-23T01:13:19.9371828Z",
         "Message": "Weekly Reset - Resetting"
       }
     ],
@@ -858,6 +883,11 @@
       {
         "ModuleType": 14,
         "Time": "2022-08-09T13:27:56.6829564Z",
+        "Message": "Weekly Reset - Resetting"
+      },
+      {
+        "ModuleType": 14,
+        "Time": "2022-08-23T01:13:19.9381979Z",
         "Message": "Weekly Reset - Resetting"
       }
     ],
@@ -936,6 +966,16 @@
         "ModuleType": 15,
         "Time": "2022-08-07T17:34:03.0662903Z",
         "Message": "Ticket Purchased - 2594"
+      },
+      {
+        "ModuleType": 15,
+        "Time": "2022-08-23T01:13:19.9417735Z",
+        "Message": "Weekly Reset - Resetting"
+      },
+      {
+        "ModuleType": 15,
+        "Time": "2022-08-23T01:18:56.3816817Z",
+        "Message": "ReSyncing Tickets"
       }
     ],
     "HuntMarksWeekly": [
@@ -1298,6 +1338,46 @@
         "ModuleType": 16,
         "Time": "2022-08-10T14:08:46.8666395Z",
         "Message": "ShadowbringersLevelThree - Mark Bill Obtained"
+      },
+      {
+        "ModuleType": 16,
+        "Time": "2022-08-23T01:13:19.9429419Z",
+        "Message": "Weekly Reset - Resetting"
+      },
+      {
+        "ModuleType": 16,
+        "Time": "2022-08-23T01:13:20.0972674Z",
+        "Message": "HeavenswardElite - Mark Bill Obtained"
+      },
+      {
+        "ModuleType": 16,
+        "Time": "2022-08-23T01:13:20.0980719Z",
+        "Message": "StormbloodElite - Mark Bill Obtained"
+      },
+      {
+        "ModuleType": 16,
+        "Time": "2022-08-23T01:13:20.0987121Z",
+        "Message": "ShadowbringersElite - Mark Bill Obtained"
+      },
+      {
+        "ModuleType": 16,
+        "Time": "2022-08-23T01:13:20.154802Z",
+        "Message": "RealmRebornLevelOne - Mark Bill Obtained"
+      },
+      {
+        "ModuleType": 16,
+        "Time": "2022-08-23T01:13:20.1556631Z",
+        "Message": "ShadowbringersLevelOne - Mark Bill Obtained"
+      },
+      {
+        "ModuleType": 16,
+        "Time": "2022-08-23T01:13:20.1564826Z",
+        "Message": "ShadowbringersLevelTwo - Mark Bill Obtained"
+      },
+      {
+        "ModuleType": 16,
+        "Time": "2022-08-23T01:13:20.1612392Z",
+        "Message": "ShadowbringersLevelThree - Mark Bill Obtained"
       }
     ],
     "HuntMarksDaily": [
@@ -1375,6 +1455,11 @@
         "ModuleType": 19,
         "Time": "2022-08-10T14:08:46.6424308Z",
         "Message": "Daily Reset - Resetting"
+      },
+      {
+        "ModuleType": 19,
+        "Time": "2022-08-23T01:13:19.9438486Z",
+        "Message": "Daily Reset - Resetting"
       }
     ],
     "TreasureMap": [
@@ -1407,6 +1492,11 @@
         "ModuleType": 8,
         "Time": "2022-08-06T06:16:44.3255618Z",
         "Message": "ReSyncing Time - LastGathered: 8/5/2022 8:16:00 AM"
+      },
+      {
+        "ModuleType": 8,
+        "Time": "2022-08-23T01:47:12.1828302Z",
+        "Message": "ReSyncing Time - LastGathered: 8/22/2022 3:47:00 AM"
       }
     ],
     "WondrousTails": [

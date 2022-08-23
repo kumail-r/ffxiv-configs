@@ -4,7 +4,7 @@
   "DutyFinderTaskbarFlash": true,
   "DutyFinderChatMessage": true,
   "LanguageOverride": "en",
-  "LastVersion": "6.4.0.42",
+  "LastVersion": "6.4.0.44",
   "LastChangelogMajorMinor": "6.4.",
   "GeneralChatType": 1,
   "DoPluginTest": false,
@@ -1342,5 +1342,6 @@
   "ShowTsm": true,
   "IsMbCollect": true,
   "EffectiveLanguage": "en",
-  "ShowDevBarInfo": true
+  "ShowDevBarInfo": true,
+  "LastFeedbackContactDetails": ""
 }
