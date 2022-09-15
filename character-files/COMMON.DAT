@@ -53,12 +53,12 @@ GBarrelDisp	1
 EgiMirageTypeGaruda	0
 EgiMirageTypeTitan	0
 EgiMirageTypeIfrit	0
-BahamutSize	2
+BahamutSize	0
 PetMirageTypeCarbuncleSupport	0
-PhoenixSize	2
-GarudaSize	2
-TitanSize	2
-IfritSize	2
+PhoenixSize	0
+GarudaSize	0
+TitanSize	0
+IfritSize	0
 TimeMode	2
 Time12	0
 TimeEorzea	1

@@ -238,6 +238,7 @@
           "UseID": true,
           "GearSetName": "PLD",
           "DrawText": false,
+          "DrawTextOnlyWhenSelected": false,
           "JobID": 19,
           "IconID": 62819,
           "Border": {
@@ -258,6 +259,7 @@
           "UseID": true,
           "GearSetName": "WAR",
           "DrawText": false,
+          "DrawTextOnlyWhenSelected": false,
           "JobID": 21,
           "IconID": 62821,
           "Border": {
@@ -278,6 +280,7 @@
           "UseID": true,
           "GearSetName": "DRK",
           "DrawText": false,
+          "DrawTextOnlyWhenSelected": false,
           "JobID": 32,
           "IconID": 62832,
           "Border": {
@@ -298,6 +301,7 @@
           "UseID": true,
           "GearSetName": "GNB",
           "DrawText": false,
+          "DrawTextOnlyWhenSelected": false,
           "JobID": 37,
           "IconID": 62837,
           "Border": {
@@ -355,6 +359,7 @@
           "UseID": true,
           "GearSetName": "WHM",
           "DrawText": false,
+          "DrawTextOnlyWhenSelected": false,
           "JobID": 24,
           "IconID": 62824,
           "Border": {
@@ -375,6 +380,7 @@
           "UseID": true,
           "GearSetName": "SCH",
           "DrawText": false,
+          "DrawTextOnlyWhenSelected": false,
           "JobID": 28,
           "IconID": 62828,
           "Border": {
@@ -395,6 +401,7 @@
           "UseID": true,
           "GearSetName": "AST",
           "DrawText": false,
+          "DrawTextOnlyWhenSelected": false,
           "JobID": 33,
           "IconID": 62833,
           "Border": {
@@ -415,6 +422,7 @@
           "UseID": true,
           "GearSetName": "RDM",
           "DrawText": false,
+          "DrawTextOnlyWhenSelected": false,
           "JobID": 40,
           "IconID": 62840,
           "Border": {
@@ -472,6 +480,7 @@
           "UseID": true,
           "GearSetName": "MNK",
           "DrawText": false,
+          "DrawTextOnlyWhenSelected": false,
           "JobID": 20,
           "IconID": 62820,
           "Border": {
@@ -492,6 +501,7 @@
           "UseID": true,
           "GearSetName": "DRG",
           "DrawText": false,
+          "DrawTextOnlyWhenSelected": false,
           "JobID": 22,
           "IconID": 62822,
           "Border": {
@@ -512,6 +522,7 @@
           "UseID": true,
           "GearSetName": "NIN",
           "DrawText": false,
+          "DrawTextOnlyWhenSelected": false,
           "JobID": 30,
           "IconID": 62830,
           "Border": {
@@ -532,6 +543,7 @@
           "UseID": true,
           "GearSetName": "SAM",
           "DrawText": false,
+          "DrawTextOnlyWhenSelected": false,
           "JobID": 34,
           "IconID": 62834,
           "Border": {
@@ -552,6 +564,7 @@
           "UseID": true,
           "GearSetName": "RPR",
           "DrawText": false,
+          "DrawTextOnlyWhenSelected": false,
           "JobID": 39,
           "IconID": 62839,
           "Border": {
@@ -572,6 +585,7 @@
           "UseID": true,
           "GearSetName": "BRD",
           "DrawText": false,
+          "DrawTextOnlyWhenSelected": false,
           "JobID": 23,
           "IconID": 62823,
           "Border": {
@@ -592,6 +606,7 @@
           "UseID": true,
           "GearSetName": "MCH",
           "DrawText": false,
+          "DrawTextOnlyWhenSelected": false,
           "JobID": 31,
           "IconID": 62831,
           "Border": {
@@ -612,6 +627,7 @@
           "UseID": true,
           "GearSetName": "DNC",
           "DrawText": false,
+          "DrawTextOnlyWhenSelected": false,
           "JobID": 38,
           "IconID": 62838,
           "Border": {
@@ -632,6 +648,7 @@
           "UseID": true,
           "GearSetName": "BLM",
           "DrawText": false,
+          "DrawTextOnlyWhenSelected": false,
           "JobID": 25,
           "IconID": 62825,
           "Border": {
@@ -652,6 +669,7 @@
           "UseID": true,
           "GearSetName": "SMN",
           "DrawText": false,
+          "DrawTextOnlyWhenSelected": false,
           "JobID": 27,
           "IconID": 62827,
           "Border": {
@@ -672,6 +690,7 @@
           "UseID": true,
           "GearSetName": "RDM",
           "DrawText": false,
+          "DrawTextOnlyWhenSelected": false,
           "JobID": 35,
           "IconID": 62835,
           "Border": {
@@ -692,6 +711,7 @@
           "UseID": true,
           "GearSetName": "RDM",
           "DrawText": false,
+          "DrawTextOnlyWhenSelected": false,
           "JobID": 36,
           "IconID": 62836,
           "Border": {
@@ -749,6 +769,7 @@
           "UseID": true,
           "GearSetName": "WAR",
           "DrawText": false,
+          "DrawTextOnlyWhenSelected": false,
           "JobID": 8,
           "IconID": 62808,
           "Border": {
@@ -769,6 +790,7 @@
           "UseID": true,
           "GearSetName": "BSM",
           "DrawText": false,
+          "DrawTextOnlyWhenSelected": false,
           "JobID": 9,
           "IconID": 62809,
           "Border": {
@@ -789,6 +811,7 @@
           "UseID": true,
           "GearSetName": "ARM",
           "DrawText": false,
+          "DrawTextOnlyWhenSelected": false,
           "JobID": 10,
           "IconID": 62810,
           "Border": {
@@ -809,6 +832,7 @@
           "UseID": true,
           "GearSetName": "GSM",
           "DrawText": false,
+          "DrawTextOnlyWhenSelected": false,
           "JobID": 11,
           "IconID": 62811,
           "Border": {
@@ -829,6 +853,7 @@
           "UseID": true,
           "GearSetName": "LTW",
           "DrawText": false,
+          "DrawTextOnlyWhenSelected": false,
           "JobID": 12,
           "IconID": 62812,
           "Border": {
@@ -849,6 +874,7 @@
           "UseID": true,
           "GearSetName": "WVR",
           "DrawText": false,
+          "DrawTextOnlyWhenSelected": false,
           "JobID": 13,
           "IconID": 62813,
           "Border": {
@@ -869,6 +895,7 @@
           "UseID": true,
           "GearSetName": "ALC",
           "DrawText": false,
+          "DrawTextOnlyWhenSelected": false,
           "JobID": 14,
           "IconID": 62814,
           "Border": {
@@ -889,6 +916,7 @@
           "UseID": true,
           "GearSetName": "WAR",
           "DrawText": false,
+          "DrawTextOnlyWhenSelected": false,
           "JobID": 15,
           "IconID": 62815,
           "Border": {
@@ -946,6 +974,7 @@
           "UseID": true,
           "GearSetName": "MIN",
           "DrawText": false,
+          "DrawTextOnlyWhenSelected": false,
           "JobID": 16,
           "IconID": 62816,
           "Border": {
@@ -966,6 +995,7 @@
           "UseID": true,
           "GearSetName": "BOT",
           "DrawText": false,
+          "DrawTextOnlyWhenSelected": false,
           "JobID": 17,
           "IconID": 62817,
           "Border": {
@@ -986,6 +1016,7 @@
           "UseID": true,
           "GearSetName": "WAR",
           "DrawText": false,
+          "DrawTextOnlyWhenSelected": false,
           "JobID": 18,
           "IconID": 62818,
           "Border": {
@@ -1041,6 +1072,8 @@
           "$type": "TPie.Models.Elements.CommandElement, TPie",
           "Name": "House",
           "Command": "/tp private",
+          "DrawText": true,
+          "DrawTextOnlyWhenSelected": false,
           "IconID": 50823,
           "Border": {
             "$type": "TPie.Models.Elements.ItemBorder, TPie",
@@ -1058,6 +1091,8 @@
           "$type": "TPie.Models.Elements.CommandElement, TPie",
           "Name": "Apartment",
           "Command": "/tp apartment",
+          "DrawText": true,
+          "DrawTextOnlyWhenSelected": false,
           "IconID": 64025,
           "Border": {
             "$type": "TPie.Models.Elements.ItemBorder, TPie",
@@ -1075,6 +1110,8 @@
           "$type": "TPie.Models.Elements.CommandElement, TPie",
           "Name": "Free Company",
           "Command": "/tp free company",
+          "DrawText": true,
+          "DrawTextOnlyWhenSelected": false,
           "IconID": 50832,
           "Border": {
             "$type": "TPie.Models.Elements.ItemBorder, TPie",
