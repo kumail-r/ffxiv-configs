@@ -104,7 +104,7 @@
     "ComparisonMode": {
       "Value": 0
     },
-    "NextReset": "2022-09-16T15:00:00Z",
+    "NextReset": "2022-10-14T15:00:00Z",
     "Enabled": {
       "Value": false
     },
@@ -186,7 +186,7 @@
     "ComparisonMode": {
       "Value": 1
     },
-    "NextReset": "2022-09-20T08:00:00Z",
+    "NextReset": "2022-10-18T08:00:00Z",
     "Enabled": {
       "Value": true
     },
@@ -267,7 +267,7 @@
     "EnableClickableLink": {
       "Value": false
     },
-    "NextReset": "2022-09-20T08:00:00Z",
+    "NextReset": "2022-10-18T08:00:00Z",
     "Enabled": {
       "Value": false
     },
@@ -458,7 +458,7 @@
         "State": 1
       }
     ],
-    "NextReset": "2022-09-16T15:00:00Z",
+    "NextReset": "2022-10-14T15:00:00Z",
     "Enabled": {
       "Value": false
     },
@@ -542,7 +542,7 @@
     "EnableClickableLink": {
       "Value": false
     },
-    "NextReset": "2022-09-20T08:00:00Z",
+    "NextReset": "2022-10-18T08:00:00Z",
     "Enabled": {
       "Value": false
     },
@@ -711,7 +711,7 @@
         "State": 0
       }
     ],
-    "NextReset": "2022-09-16T15:00:00Z",
+    "NextReset": "2022-10-14T15:00:00Z",
     "Enabled": {
       "Value": false
     },
@@ -824,7 +824,7 @@
         "State": 0
       }
     ],
-    "NextReset": "2022-09-20T08:00:00Z",
+    "NextReset": "2022-10-18T08:00:00Z",
     "Enabled": {
       "Value": false
     },
@@ -904,7 +904,7 @@
     "EnableClickableLink": {
       "Value": false
     },
-    "NextReset": "2022-09-18T02:00:00Z",
+    "NextReset": "2022-10-16T02:00:00Z",
     "Enabled": {
       "Value": true
     },
@@ -986,7 +986,7 @@
     "ComparisonMode": {
       "Value": 0
     },
-    "NextReset": "2022-09-16T00:00:00Z",
+    "NextReset": "2022-10-14T00:00:00Z",
     "Enabled": {
       "Value": false
     },
@@ -1066,7 +1066,7 @@
     "EnableClickableLink": {
       "Value": false
     },
-    "NextReset": "2022-09-16T15:00:00Z",
+    "NextReset": "2022-10-14T15:00:00Z",
     "Enabled": {
       "Value": true
     },
@@ -1143,7 +1143,7 @@
   },
   "TreasureMap": {
     "LastMapGathered": "2022-08-22T07:47:00Z",
-    "NextReset": "2022-09-16T15:00:00Z",
+    "NextReset": "2022-10-14T15:00:00Z",
     "Enabled": {
       "Value": false
     },
@@ -1231,7 +1231,7 @@
     "OverlayEnabled": {
       "Value": true
     },
-    "NextReset": "2022-09-20T08:00:00Z",
+    "NextReset": "2022-10-18T08:00:00Z",
     "Enabled": {
       "Value": true
     },
@@ -1307,9 +1307,9 @@
     }
   },
   "ChallengeLog": {
-    "Commendations": 0,
+    "Commendations": 1,
     "RouletteDungeons": 1,
-    "DungeonMaster": 1,
+    "DungeonMaster": 2,
     "CommendationWarning": {
       "Value": true
     },
@@ -1319,7 +1319,7 @@
     "DungeonWarning": {
       "Value": true
     },
-    "NextReset": "2022-09-20T08:00:00Z",
+    "NextReset": "2022-10-18T08:00:00Z",
     "Enabled": {
       "Value": false
     },
