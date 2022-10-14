@@ -23,7 +23,13 @@
   "ClassicSlideCastOverHeight": 0,
   "AlignName": 3,
   "AlignCounter": 5,
-  "OffsetNamePosition": 0,
-  "OffsetCounterPosition": 0,
+  "OffsetName": {
+    "X": 0.0,
+    "Y": 0.0
+  },
+  "OffsetCounter": {
+    "X": 0.0,
+    "Y": 0.0
+  },
   "Version": 1
 }

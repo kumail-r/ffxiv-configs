@@ -986,7 +986,7 @@
     "ComparisonMode": {
       "Value": 0
     },
-    "NextReset": "2022-10-14T00:00:00Z",
+    "NextReset": "2022-10-14T12:00:00Z",
     "Enabled": {
       "Value": false
     },
@@ -1231,6 +1231,9 @@
     "OverlayEnabled": {
       "Value": true
     },
+    "ResendOnCompletion": {
+      "Value": false
+    },
     "NextReset": "2022-10-18T08:00:00Z",
     "Enabled": {
       "Value": true
@@ -1309,7 +1312,7 @@
   "ChallengeLog": {
     "Commendations": 1,
     "RouletteDungeons": 1,
-    "DungeonMaster": 2,
+    "DungeonMaster": 3,
     "CommendationWarning": {
       "Value": true
     },
@@ -1341,6 +1344,321 @@
     "TimerSettings": {
       "TimerStyle": {
         "Value": 15
+      },
+      "BackgroundColor": {
+        "Value": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 1.0
+        }
+      },
+      "ForegroundColor": {
+        "Value": {
+          "X": 0.6901961,
+          "Y": 0.14901961,
+          "Z": 0.9254902,
+          "W": 1.0
+        }
+      },
+      "TextColor": {
+        "Value": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0,
+          "W": 1.0
+        }
+      },
+      "TimeColor": {
+        "Value": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0,
+          "W": 1.0
+        }
+      },
+      "Size": {
+        "Value": 200
+      },
+      "StretchToFit": {
+        "Value": false
+      },
+      "UseCustomName": {
+        "Value": false
+      },
+      "CustomName": {
+        "Value": ""
+      },
+      "HideLabel": {
+        "Value": false
+      },
+      "HideTime": {
+        "Value": false
+      }
+    }
+  },
+  "RaidsNormal": {
+    "TrackedRaids": [
+      {
+        "Duty": {
+          "TerritoryType": 1087,
+          "ContentFinderCondition": 883,
+          "Name": "Abyssos: The Eighth Circle"
+        },
+        "Tracked": {
+          "Value": false
+        },
+        "NumItems": {
+          "Value": 1
+        },
+        "CurrentDropCount": 0
+      },
+      {
+        "Duty": {
+          "TerritoryType": 1085,
+          "ContentFinderCondition": 876,
+          "Name": "Abyssos: The Seventh Circle"
+        },
+        "Tracked": {
+          "Value": false
+        },
+        "NumItems": {
+          "Value": 1
+        },
+        "CurrentDropCount": 0
+      },
+      {
+        "Duty": {
+          "TerritoryType": 1083,
+          "ContentFinderCondition": 880,
+          "Name": "Abyssos: The Sixth Circle"
+        },
+        "Tracked": {
+          "Value": false
+        },
+        "NumItems": {
+          "Value": 1
+        },
+        "CurrentDropCount": 0
+      },
+      {
+        "Duty": {
+          "TerritoryType": 1081,
+          "ContentFinderCondition": 872,
+          "Name": "Abyssos: The Fifth Circle"
+        },
+        "Tracked": {
+          "Value": false
+        },
+        "NumItems": {
+          "Value": 1
+        },
+        "CurrentDropCount": 0
+      }
+    ],
+    "EnableClickableLink": {
+      "Value": true
+    },
+    "NextReset": "2022-10-18T08:00:00Z",
+    "Enabled": {
+      "Value": false
+    },
+    "NotifyOnLogin": {
+      "Value": true
+    },
+    "NotifyOnZoneChange": {
+      "Value": true
+    },
+    "TodoTaskEnabled": {
+      "Value": true
+    },
+    "TodoUseLongLabel": {
+      "Value": false
+    },
+    "TimerTaskEnabled": {
+      "Value": false
+    },
+    "TimerSettings": {
+      "TimerStyle": {
+        "Value": 31
+      },
+      "BackgroundColor": {
+        "Value": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 1.0
+        }
+      },
+      "ForegroundColor": {
+        "Value": {
+          "X": 0.6901961,
+          "Y": 0.14901961,
+          "Z": 0.9254902,
+          "W": 1.0
+        }
+      },
+      "TextColor": {
+        "Value": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0,
+          "W": 1.0
+        }
+      },
+      "TimeColor": {
+        "Value": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0,
+          "W": 1.0
+        }
+      },
+      "Size": {
+        "Value": 200
+      },
+      "StretchToFit": {
+        "Value": false
+      },
+      "UseCustomName": {
+        "Value": false
+      },
+      "CustomName": {
+        "Value": ""
+      },
+      "HideLabel": {
+        "Value": false
+      },
+      "HideTime": {
+        "Value": false
+      }
+    }
+  },
+  "RaidsAlliance": {
+    "TrackedRaids": [
+      {
+        "Duty": {
+          "TerritoryType": 1054,
+          "ContentFinderCondition": 866,
+          "Name": "Aglaia"
+        },
+        "Tracked": {
+          "Value": false
+        },
+        "NumItems": {
+          "Value": 1
+        },
+        "CurrentDropCount": 0
+      }
+    ],
+    "EnableClickableLink": {
+      "Value": true
+    },
+    "NextReset": "2022-10-18T08:00:00Z",
+    "Enabled": {
+      "Value": false
+    },
+    "NotifyOnLogin": {
+      "Value": true
+    },
+    "NotifyOnZoneChange": {
+      "Value": true
+    },
+    "TodoTaskEnabled": {
+      "Value": true
+    },
+    "TodoUseLongLabel": {
+      "Value": false
+    },
+    "TimerTaskEnabled": {
+      "Value": false
+    },
+    "TimerSettings": {
+      "TimerStyle": {
+        "Value": 31
+      },
+      "BackgroundColor": {
+        "Value": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 1.0
+        }
+      },
+      "ForegroundColor": {
+        "Value": {
+          "X": 0.6901961,
+          "Y": 0.14901961,
+          "Z": 0.9254902,
+          "W": 1.0
+        }
+      },
+      "TextColor": {
+        "Value": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0,
+          "W": 1.0
+        }
+      },
+      "TimeColor": {
+        "Value": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0,
+          "W": 1.0
+        }
+      },
+      "Size": {
+        "Value": 200
+      },
+      "StretchToFit": {
+        "Value": false
+      },
+      "UseCustomName": {
+        "Value": false
+      },
+      "CustomName": {
+        "Value": ""
+      },
+      "HideLabel": {
+        "Value": false
+      },
+      "HideTime": {
+        "Value": false
+      }
+    }
+  },
+  "FauxHollows": {
+    "EnableClickableLink": {
+      "Value": true
+    },
+    "IncludeRetelling": {
+      "Value": true
+    },
+    "FauxHollowsCompleted": 0,
+    "NextReset": "2022-10-18T08:00:00Z",
+    "Enabled": {
+      "Value": false
+    },
+    "NotifyOnLogin": {
+      "Value": true
+    },
+    "NotifyOnZoneChange": {
+      "Value": true
+    },
+    "TodoTaskEnabled": {
+      "Value": true
+    },
+    "TodoUseLongLabel": {
+      "Value": false
+    },
+    "TimerTaskEnabled": {
+      "Value": false
+    },
+    "TimerSettings": {
+      "TimerStyle": {
+        "Value": 31
       },
       "BackgroundColor": {
         "Value": {
