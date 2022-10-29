@@ -104,7 +104,7 @@
     "ComparisonMode": {
       "Value": 0
     },
-    "NextReset": "2022-10-29T15:00:00Z",
+    "NextReset": "2022-10-30T15:00:00Z",
     "Enabled": {
       "Value": false
     },
@@ -385,7 +385,7 @@
         "Tracked": {
           "Value": false
         },
-        "State": 1
+        "State": 0
       },
       {
         "Roulette": 8,
@@ -458,7 +458,7 @@
         "State": 1
       }
     ],
-    "NextReset": "2022-10-29T15:00:00Z",
+    "NextReset": "2022-10-30T15:00:00Z",
     "Enabled": {
       "Value": false
     },
@@ -711,7 +711,7 @@
         "State": 0
       }
     ],
-    "NextReset": "2022-10-29T15:00:00Z",
+    "NextReset": "2022-10-30T15:00:00Z",
     "Enabled": {
       "Value": false
     },
@@ -986,7 +986,7 @@
     "ComparisonMode": {
       "Value": 0
     },
-    "NextReset": "2022-10-29T12:00:00Z",
+    "NextReset": "2022-10-30T00:00:00Z",
     "Enabled": {
       "Value": false
     },
@@ -1066,7 +1066,7 @@
     "EnableClickableLink": {
       "Value": false
     },
-    "NextReset": "2022-10-29T15:00:00Z",
+    "NextReset": "2022-10-30T15:00:00Z",
     "Enabled": {
       "Value": true
     },
@@ -1142,8 +1142,8 @@
     }
   },
   "TreasureMap": {
-    "LastMapGathered": "2022-08-22T07:47:00Z",
-    "NextReset": "2022-10-29T15:00:00Z",
+    "LastMapGathered": "2022-10-29T02:11:00Z",
+    "NextReset": "2022-10-30T15:00:00Z",
     "Enabled": {
       "Value": false
     },
@@ -1311,8 +1311,8 @@
   },
   "ChallengeLog": {
     "Commendations": 0,
-    "RouletteDungeons": 0,
-    "DungeonMaster": 3,
+    "RouletteDungeons": 1,
+    "DungeonMaster": 4,
     "CommendationWarning": {
       "Value": true
     },
@@ -1771,7 +1771,7 @@
         "State": false
       }
     ],
-    "NextReset": "2022-10-29T15:00:00Z",
+    "NextReset": "2022-10-30T15:00:00Z",
     "Enabled": {
       "Value": false
     },
@@ -1870,7 +1870,7 @@
         "State": false
       }
     ],
-    "NextReset": "2022-10-29T15:00:00Z",
+    "NextReset": "2022-10-30T15:00:00Z",
     "Enabled": {
       "Value": false
     },
