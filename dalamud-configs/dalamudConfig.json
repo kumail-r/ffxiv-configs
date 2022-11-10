@@ -4,7 +4,7 @@
   "DutyFinderTaskbarFlash": true,
   "DutyFinderChatMessage": true,
   "LanguageOverride": "en",
-  "LastVersion": "7.0.0.9",
+  "LastVersion": "7.1.4.0",
   "LastChangelogMajorMinor": "7.0.",
   "GeneralChatType": 1,
   "DoPluginTest": false,
@@ -1343,5 +1343,9 @@
   "IsMbCollect": true,
   "EffectiveLanguage": "en",
   "ShowDevBarInfo": true,
-  "LastFeedbackContactDetails": ""
+  "LastFeedbackContactDetails": "",
+  "PluginTestingOptIns": {
+    "$type": "System.Collections.Generic.List`1[[Dalamud.Configuration.Internal.PluginTestingOptIn, Dalamud]], System.Private.CoreLib",
+    "$values": []
+  }
 }
