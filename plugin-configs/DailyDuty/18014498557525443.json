@@ -104,7 +104,7 @@
     "ComparisonMode": {
       "Value": 0
     },
-    "NextReset": "2022-11-14T15:00:00Z",
+    "NextReset": "2022-11-24T15:00:00Z",
     "Enabled": {
       "Value": false
     },
@@ -186,7 +186,7 @@
     "ComparisonMode": {
       "Value": 1
     },
-    "NextReset": "2022-11-15T08:00:00Z",
+    "NextReset": "2022-11-29T08:00:00Z",
     "Enabled": {
       "Value": true
     },
@@ -267,7 +267,7 @@
     "EnableClickableLink": {
       "Value": false
     },
-    "NextReset": "2022-11-15T08:00:00Z",
+    "NextReset": "2022-11-29T08:00:00Z",
     "Enabled": {
       "Value": false
     },
@@ -458,7 +458,7 @@
         "State": 1
       }
     ],
-    "NextReset": "2022-11-14T15:00:00Z",
+    "NextReset": "2022-11-24T15:00:00Z",
     "Enabled": {
       "Value": false
     },
@@ -542,7 +542,7 @@
     "EnableClickableLink": {
       "Value": false
     },
-    "NextReset": "2022-11-15T08:00:00Z",
+    "NextReset": "2022-11-29T08:00:00Z",
     "Enabled": {
       "Value": false
     },
@@ -711,7 +711,7 @@
         "State": 0
       }
     ],
-    "NextReset": "2022-11-14T15:00:00Z",
+    "NextReset": "2022-11-24T15:00:00Z",
     "Enabled": {
       "Value": false
     },
@@ -824,7 +824,7 @@
         "State": 0
       }
     ],
-    "NextReset": "2022-11-15T08:00:00Z",
+    "NextReset": "2022-11-29T08:00:00Z",
     "Enabled": {
       "Value": false
     },
@@ -904,7 +904,7 @@
     "EnableClickableLink": {
       "Value": false
     },
-    "NextReset": "2022-11-20T02:00:00Z",
+    "NextReset": "2022-11-27T02:00:00Z",
     "Enabled": {
       "Value": true
     },
@@ -986,7 +986,7 @@
     "ComparisonMode": {
       "Value": 0
     },
-    "NextReset": "2022-11-15T00:00:00Z",
+    "NextReset": "2022-11-24T00:00:00Z",
     "Enabled": {
       "Value": false
     },
@@ -1066,7 +1066,7 @@
     "EnableClickableLink": {
       "Value": false
     },
-    "NextReset": "2022-11-14T15:00:00Z",
+    "NextReset": "2022-11-24T15:00:00Z",
     "Enabled": {
       "Value": true
     },
@@ -1143,7 +1143,7 @@
   },
   "TreasureMap": {
     "LastMapGathered": "2022-10-29T02:11:00Z",
-    "NextReset": "2022-11-14T15:00:00Z",
+    "NextReset": "2022-11-24T15:00:00Z",
     "Enabled": {
       "Value": false
     },
@@ -1234,7 +1234,7 @@
     "ResendOnCompletion": {
       "Value": false
     },
-    "NextReset": "2022-11-15T08:00:00Z",
+    "NextReset": "2022-11-29T08:00:00Z",
     "Enabled": {
       "Value": true
     },
@@ -1322,7 +1322,7 @@
     "DungeonWarning": {
       "Value": true
     },
-    "NextReset": "2022-11-15T08:00:00Z",
+    "NextReset": "2022-11-29T08:00:00Z",
     "Enabled": {
       "Value": false
     },
@@ -1459,7 +1459,7 @@
     "EnableClickableLink": {
       "Value": true
     },
-    "NextReset": "2022-11-15T08:00:00Z",
+    "NextReset": "2022-11-29T08:00:00Z",
     "Enabled": {
       "Value": false
     },
@@ -1554,7 +1554,7 @@
     "EnableClickableLink": {
       "Value": true
     },
-    "NextReset": "2022-11-15T08:00:00Z",
+    "NextReset": "2022-11-29T08:00:00Z",
     "Enabled": {
       "Value": false
     },
@@ -1637,7 +1637,7 @@
       "Value": true
     },
     "FauxHollowsCompleted": 0,
-    "NextReset": "2022-11-15T08:00:00Z",
+    "NextReset": "2022-11-29T08:00:00Z",
     "Enabled": {
       "Value": false
     },
@@ -1771,7 +1771,7 @@
         "State": false
       }
     ],
-    "NextReset": "2022-11-14T15:00:00Z",
+    "NextReset": "2022-11-24T15:00:00Z",
     "Enabled": {
       "Value": false
     },
@@ -1870,7 +1870,7 @@
         "State": false
       }
     ],
-    "NextReset": "2022-11-14T15:00:00Z",
+    "NextReset": "2022-11-24T15:00:00Z",
     "Enabled": {
       "Value": false
     },
